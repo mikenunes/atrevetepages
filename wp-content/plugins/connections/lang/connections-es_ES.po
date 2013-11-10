@@ -1,0 +1,2736 @@
+#
+# Translators:
+# shazahm1 <shazahm1@hotmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: Connections\n"
+"POT-Creation-Date: 2013-06-02 20:09-0500\n"
+"PO-Revision-Date: 2013-06-16 16:04-0500\n"
+"Last-Translator: Steven A. Zahm <helpdesk@connections-pro.com>\n"
+"Language-Team: Spanish (Spain) (http://www.transifex.com/projects/p/"
+"connections/language/es_ES/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: connections.php:725
+msgid "Entries"
+msgstr "Entradas"
+
+#: connections.php:795 submenus/dashboard.php:28
+msgid "Dashboard"
+msgstr "Panel de Control"
+
+#: connections.php:796 submenus/manage.php:240
+msgid "Manage"
+msgstr "Administrar"
+
+#: connections.php:797 includes/class.capabilities.php:61
+#: includes/class.form.php:826 includes/class.form.php:830
+#: submenus/manage.php:12
+msgid "Add Entry"
+msgstr "Agregar Entrada"
+
+#: connections.php:798 includes/class.form.php:239 submenus/categories.php:74
+#: submenus/manage.php:437 submenus/manage.php:446
+msgid "Categories"
+msgstr "Categorías"
+
+#: connections.php:799 connections.php:908 includes/class.form.php:319
+#: includes/class.settings.php:1052 submenus/templates.php:35
+msgid "Templates"
+msgstr "Plantillas"
+
+#: connections.php:800 connections.php:890 submenus/settings.php:30
+msgid "Settings"
+msgstr "Configuración"
+
+#: connections.php:801
+msgid "Roles &amp; Capabilites"
+msgstr "Roles &amp; Permisos"
+
+#: connections.php:801
+msgid "Roles"
+msgstr "Roles"
+
+#: connections.php:907
+msgid "Add-on Plugins"
+msgstr "Agregar Plugins"
+
+#: connections.php:909 includes/class.form.php:286
+msgid "Documentation"
+msgstr "Documentación"
+
+#: connections.php:910
+msgid "Support Forums"
+msgstr "Foro Apoyo"
+
+#: connections.php:1262 connections.php:1270
+msgid "vCard not available for download."
+msgstr "vCard no disponible para descargar"
+
+#: cache/index.php:14 includes/inc.upgrade.php:18 submenus/categories.php:19
+#: submenus/dashboard.php:18 submenus/roles.php:18 submenus/settings.php:18
+#: submenus/templates.php:19
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Usted no tiene autorización para acceder a esta página."
+
+#: includes/class.capabilities.php:58
+msgid "View Admin Menu"
+msgstr "Ver Menú Admin"
+
+#: includes/class.capabilities.php:59
+msgid "View Dashboard"
+msgstr "Ver Panel de Control"
+
+#: includes/class.capabilities.php:60
+msgid "View List (Manage)"
+msgstr "Ver Listado (Administrar)"
+
+#: includes/class.capabilities.php:62
+msgid "Add Entry Moderated"
+msgstr "Agregar entrada Moderada"
+
+#: includes/class.capabilities.php:63 submenus/manage.php:159
+msgid "Edit Entry"
+msgstr "Editar Entrada"
+
+#: includes/class.capabilities.php:64
+msgid "Edit Entry Moderated"
+msgstr "Editar Entrada Moderada"
+
+#: includes/class.capabilities.php:65
+msgid "Delete Entry"
+msgstr "Borrar entrada"
+
+#: includes/class.capabilities.php:66
+msgid "View Public Entries"
+msgstr "Ver Entradas Públicas"
+
+#: includes/class.capabilities.php:67
+msgid "View Private Entries"
+msgstr "Ver Entradas Privadas"
+
+#: includes/class.capabilities.php:68
+msgid "View Unlisted Entries"
+msgstr "Ver Entradas no listadas"
+
+#: includes/class.capabilities.php:69
+msgid "Edit Categories"
+msgstr "Editar Categorías"
+
+#: includes/class.capabilities.php:70
+msgid "Change Settings"
+msgstr "Cambiar Configuración"
+
+#: includes/class.capabilities.php:71
+msgid "Manage Templates"
+msgstr "Administrar Plantillas"
+
+#: includes/class.capabilities.php:72
+msgid "Change Role Capabilities"
+msgstr "Cambiar Permisios de Roles"
+
+#: includes/class.entry.php:2562 includes/class.form.php:1725
+#: includes/class.options.php:880 includes/class.output.php:2008
+#: includes/class.output.php:2015 submenus/templates.php:42
+msgid "Anniversary"
+msgstr "Aniversario"
+
+#: includes/class.entry.php:2577 includes/class.form.php:1707
+#: includes/class.options.php:882 includes/class.output.php:1938
+#: includes/class.output.php:1945 submenus/templates.php:43
+msgid "Birthday"
+msgstr "Cumpleaños"
+
+#: includes/class.entry.php:3005 includes/class.form.php:808
+msgid "Unlisted"
+msgstr "Sin Listar"
+
+#: includes/class.entry.php:3005 includes/class.form.php:806
+msgid "Public"
+msgstr "Público"
+
+#: includes/class.entry.php:3005 includes/class.form.php:807
+msgid "Private"
+msgstr "Privado"
+
+#: includes/class.entry.php:3212
+msgid "Unknown"
+msgstr "Desconocido"
+
+#: includes/class.form.php:238
+msgid "Publish"
+msgstr "Publicar"
+
+#: includes/class.form.php:240
+msgid "Image"
+msgstr "Imagen"
+
+#: includes/class.form.php:241 includes/class.settings.php:192
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/class.form.php:242
+msgid "Addresses"
+msgstr "Direcciones"
+
+#: includes/class.form.php:243
+msgid "Phone Numbers"
+msgstr "Teléfonos"
+
+#: includes/class.form.php:244
+msgid "Email Addresses"
+msgstr "Correos Electrónicos"
+
+#: includes/class.form.php:245
+msgid "Messenger IDs"
+msgstr "IDs Mensajes"
+
+#: includes/class.form.php:246
+msgid "Social Media IDs"
+msgstr "ID's Redes Sociales"
+
+#: includes/class.form.php:247 includes/class.settings.php:225
+msgid "Links"
+msgstr "Enlaces"
+
+#: includes/class.form.php:248
+msgid "Dates"
+msgstr "Fechas"
+
+#: includes/class.form.php:251
+msgid "Biographical Info"
+msgstr "Info. Biográfica"
+
+#: includes/class.form.php:252 includes/class.settings.php:720
+#: submenus/manage.php:748
+msgid "Notes"
+msgstr "Notas"
+
+#: includes/class.form.php:265
+msgid "News"
+msgstr "Noticias"
+
+#: includes/class.form.php:266
+msgid "Pro Modules Update Notices"
+msgstr "Notificación Actualización Módulos Pro"
+
+#: includes/class.form.php:267
+msgid "Template Update Notices"
+msgstr "Notificación Actualización Plantilla"
+
+#: includes/class.form.php:269
+msgid "Awaiting Moderation"
+msgstr "Esperando Moderación"
+
+#: includes/class.form.php:270
+msgid "Recently Added"
+msgstr "Recientemente Agregados"
+
+#: includes/class.form.php:271
+msgid "Recently Modified"
+msgstr "Recientemente Modificados"
+
+#: includes/class.form.php:273
+msgid "Quick Links"
+msgstr "Enlaces Rápidos"
+
+#: includes/class.form.php:274
+msgid "Today's Anniversaries"
+msgstr "Aniversarios de Hoy"
+
+#: includes/class.form.php:275
+msgid "Today's Birthdays"
+msgstr "Cumpleaños de Hoy"
+
+#: includes/class.form.php:276
+msgid "Upcoming Anniversaries"
+msgstr "Próximos Aniversarios"
+
+#: includes/class.form.php:277
+msgid "Upcoming Birthdays"
+msgstr "Próximos Cumpleaños"
+
+#: includes/class.form.php:279
+msgid "System"
+msgstr "Sistema"
+
+#: includes/class.form.php:297
+msgid "FAQs"
+msgstr "FAQs"
+
+#: includes/class.form.php:302
+msgid ""
+"Have a question, maybe someone else had the same question, please check the "
+"FAQs."
+msgstr ""
+"¿Tiene alguna pregunta, tal vez alguien más tuvo la misma pregunta, por "
+"favor revise las preguntas frecuentes."
+
+#: includes/class.form.php:308
+msgid "Pro Modules"
+msgstr "Módulos Pro"
+
+#: includes/class.form.php:313
+msgid "Extend Connections with the Pro Module Addons."
+msgstr "Amplie Connections con las extensionse Pro Módulo."
+
+#: includes/class.form.php:324
+msgid "Check out the template market."
+msgstr "Visite el mercado de plantillas"
+
+#: includes/class.form.php:330
+msgid "Bug Report"
+msgstr "Reporte Errores"
+
+#: includes/class.form.php:335
+msgid "Did you find a bug, please take the time to report it. Thanks."
+msgstr ""
+"¿Encontró un error, por favor, tómese el tiempo para reportarlo. Gracias."
+
+#: includes/class.form.php:341
+msgid "Feature Request"
+msgstr "Solicitar Función"
+
+#: includes/class.form.php:346
+msgid "Need a feature, request a feature."
+msgstr "Necesito una función, solicitar una función"
+
+#: includes/class.form.php:370
+#, php-format
+msgid ""
+"Newsfeed could not be loaded.  Check the <a href=\"%s\">blog</a> to check "
+"for updates."
+msgstr ""
+" No se pudo cargar la fuente de noticias. Consulta el blog <a href=\"%s\"> "
+"</ a> para comprobar si hay actualizaciones."
+
+#: includes/class.form.php:383
+msgid "Untitled"
+msgstr "Sin Título"
+
+#: includes/class.form.php:398
+msgid "ago"
+msgstr "hace"
+
+#: includes/class.form.php:405
+msgid "No updates at this time"
+msgstr "No hay ninguna actualización"
+
+#: includes/class.form.php:422
+msgid "No Birthdays Today"
+msgstr "Cumpleaños de Hoy"
+
+#: includes/class.form.php:450
+msgid "No Upcoming Birthdays."
+msgstr "Próximos Cumpleaños"
+
+#: includes/class.form.php:478
+msgid "No Anniversaries Today"
+msgstr "Aniversarios de Hoy"
+
+#: includes/class.form.php:505
+msgid "No Upcoming Anniversaries."
+msgstr "Próximos Aniversarios."
+
+#: includes/class.form.php:625
+msgid "Not set"
+msgstr "No definido"
+
+#: includes/class.form.php:627 includes/class.form.php:630
+#: submenus/manage.php:562
+msgid "On"
+msgstr "Activado"
+
+#: includes/class.form.php:628 includes/class.form.php:631
+msgid "Off"
+msgstr "Desactivado"
+
+#: includes/class.form.php:634 includes/class.form.php:637
+#: includes/class.form.php:640 includes/class.form.php:643
+#: includes/class.form.php:646 includes/class.form.php:649
+msgid "N/A"
+msgstr "No Disponible"
+
+#: includes/class.form.php:648
+msgid "MByte"
+msgstr "MByte"
+
+#: includes/class.form.php:651 includes/class.form.php:654
+#: includes/class.form.php:657 includes/class.utility.php:126
+#: submenus/manage.php:755 submenus/manage.php:756
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/class.form.php:652 includes/class.form.php:655
+#: includes/class.form.php:658 includes/class.utility.php:128
+#: submenus/manage.php:755 submenus/manage.php:756
+msgid "No"
+msgstr "No"
+
+#: includes/class.form.php:661
+msgid "Version Information"
+msgstr "Información Versión"
+
+#: includes/class.form.php:670
+msgid "Constants"
+msgstr "Constantes"
+
+#: includes/class.form.php:673
+msgid "TRUE"
+msgstr "VERDADERO"
+
+#: includes/class.form.php:673
+msgid "FALSE"
+msgstr "FALSO"
+
+#: includes/class.form.php:699
+msgid "Server Configuration"
+msgstr "Configuración Servidor"
+
+#: includes/class.form.php:702
+msgid "Operating System"
+msgstr "Sistema Operativo"
+
+#: includes/class.form.php:703
+msgid "Server"
+msgstr "Servidor"
+
+#: includes/class.form.php:704
+msgid "Memory usage"
+msgstr "Uso de memoria"
+
+#: includes/class.form.php:705
+msgid "MYSQL Version"
+msgstr "Versión MYSQL"
+
+#: includes/class.form.php:706
+msgid "SQL Mode"
+msgstr "Modo SQL"
+
+#: includes/class.form.php:707
+msgid "PHP Version"
+msgstr "Versión PHP"
+
+#: includes/class.form.php:708
+msgid "PHP Safe Mode"
+msgstr "Modo Seguro PHP"
+
+#: includes/class.form.php:709
+msgid "PHP Allow URL fopen"
+msgstr "Parámetro PHP allow_url_fopen"
+
+#: includes/class.form.php:710
+msgid "PHP Memory Limit"
+msgstr "Limite de Memoria PHP"
+
+#: includes/class.form.php:711
+msgid "PHP Max Upload Size"
+msgstr "PHP Máximo Tamaño de Subida"
+
+#: includes/class.form.php:712
+msgid "PHP Max Post Size"
+msgstr "PHP Máximo Tamaño de Entrada "
+
+#: includes/class.form.php:713
+msgid "PCRE Backtracking Limit"
+msgstr "PCRE Limite de Retroceso"
+
+#: includes/class.form.php:714
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Máximo Tiempo de Ejecución"
+
+#: includes/class.form.php:715
+msgid "PHP Exif support"
+msgstr "Soporte PHP Exif"
+
+#: includes/class.form.php:716
+msgid "PHP IPTC support"
+msgstr "PHP Soporte IPTC"
+
+#: includes/class.form.php:717
+msgid "PHP XML support"
+msgstr "Soporte PHP XML"
+
+#: includes/class.form.php:720
+msgid "Graphic Library"
+msgstr "Biblioteca Gráficos"
+
+#: includes/class.form.php:740
+msgid "No GD support"
+msgstr "No hay soporte para GD"
+
+#: includes/class.form.php:745
+msgid "Folder Permissions"
+msgstr "Permisos Folder"
+
+#: includes/class.form.php:750
+msgid "Image Path Exists:"
+msgstr "Existe ruta imagen:"
+
+#: includes/class.form.php:751
+msgid "Image Path Writeable:"
+msgstr "Ruta Imágen Escribible:"
+
+#: includes/class.form.php:753
+msgid "Template Path Exists:"
+msgstr "Existe ruta Plantilla:"
+
+#: includes/class.form.php:754
+msgid "Template Path Writeable:"
+msgstr "Ruta Plantilla escribible:"
+
+#: includes/class.form.php:756
+msgid "Cache Path Exists:"
+msgstr "Existe Ruta Cache:"
+
+#: includes/class.form.php:757
+msgid "Cache Path Writeable:"
+msgstr "Ruta Cache escribible"
+
+#: includes/class.form.php:773 submenus/templates.php:39
+msgid "Individual"
+msgstr "Individual"
+
+#: includes/class.form.php:774 includes/class.form.php:943
+#: includes/class.settings.php:715 includes/class.settings.php:933
+#: submenus/manage.php:631 submenus/templates.php:40
+msgid "Organization"
+msgstr "Organización"
+
+#: includes/class.form.php:775 submenus/templates.php:41
+msgid "Family"
+msgstr "Familia"
+
+#: includes/class.form.php:820 includes/class.form.php:825
+#: submenus/categories.php:61
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/class.form.php:821 submenus/roles.php:63
+msgid "Update"
+msgstr "actualizar"
+
+#: includes/class.form.php:871 includes/class.settings.php:710
+msgid "Family Name"
+msgstr "Apellido"
+
+#: includes/class.form.php:891 includes/class.form.php:986
+#: includes/class.form.php:1020 includes/class.form.php:1120
+#: includes/class.form.php:1209 includes/class.form.php:1250
+#: includes/class.form.php:1282 includes/class.form.php:1323
+#: includes/class.form.php:1355 includes/class.form.php:1396
+#: includes/class.form.php:1427 includes/class.form.php:1468
+#: includes/class.form.php:1500 includes/class.form.php:1555
+#: includes/class.form.php:1604 includes/class.form.php:1648
+#: includes/class.form.php:1683
+msgid "Remove"
+msgstr "Quitar"
+
+#: includes/class.form.php:899
+msgid "Add Relation"
+msgstr "Agregar Relación"
+
+#: includes/class.form.php:909
+msgid "Prefix"
+msgstr "Prefijo"
+
+#: includes/class.form.php:915 includes/class.settings.php:711
+msgid "First Name"
+msgstr "Nombre"
+
+#: includes/class.form.php:920 includes/class.settings.php:712
+msgid "Middle Name"
+msgstr "Segundo Nombre"
+
+#: includes/class.form.php:925 includes/class.settings.php:713
+msgid "Last Name"
+msgstr "Apellido"
+
+#: includes/class.form.php:931
+msgid "Suffix"
+msgstr "Sufijo"
+
+#: includes/class.form.php:936 includes/class.form.php:1541
+#: includes/class.form.php:1589 includes/class.settings.php:714
+#: submenus/manage.php:630
+msgid "Title"
+msgstr "Título"
+
+#: includes/class.form.php:946 includes/class.settings.php:716
+#: includes/class.settings.php:946 submenus/manage.php:632
+msgid "Department"
+msgstr "Departamento"
+
+#: includes/class.form.php:952 includes/class.settings.php:717
+msgid "Contact First Name"
+msgstr "Nombre del Contacto"
+
+#: includes/class.form.php:956 includes/class.settings.php:718
+msgid "Contact Last Name"
+msgstr "Apellido del Contacto"
+
+#: includes/class.form.php:984 includes/class.form.php:1018
+#: includes/class.settings.php:35 submenus/manage.php:756
+msgid "Display"
+msgstr "Mostar"
+
+#: includes/class.form.php:985 includes/class.form.php:1019
+msgid "Not Displayed"
+msgstr "No Visible"
+
+#: includes/class.form.php:995
+msgid "Select Image"
+msgstr "Seleccionar Imagen"
+
+#: includes/class.form.php:1029
+msgid "Select Logo"
+msgstr "Seleccionar Logo"
+
+#: includes/class.form.php:1054 includes/class.form.php:1142
+msgid "Address Type"
+msgstr "Tipo de Dirección"
+
+#: includes/class.form.php:1055 includes/class.form.php:1143
+#: includes/class.form.php:1241 includes/class.form.php:1272
+#: includes/class.form.php:1314 includes/class.form.php:1345
+#: includes/class.form.php:1387 includes/class.form.php:1417
+#: includes/class.form.php:1459 includes/class.form.php:1490
+#: includes/class.form.php:1532 includes/class.form.php:1580
+#: includes/class.form.php:1636 includes/class.form.php:1670
+msgid "Preferred"
+msgstr "Preferido"
+
+#: includes/class.form.php:1056 includes/class.form.php:1144
+#: includes/class.form.php:1242 includes/class.form.php:1315
+#: includes/class.form.php:1346 includes/class.form.php:1388
+#: includes/class.form.php:1418 includes/class.form.php:1460
+#: includes/class.form.php:1491 includes/class.form.php:1533
+#: includes/class.form.php:1581 includes/class.form.php:1637
+#: includes/class.form.php:1671 submenus/manage.php:564
+msgid "Visibility"
+msgstr "Visibilidad"
+
+#: includes/class.form.php:1065 includes/class.form.php:1153
+msgid "Address Line 1"
+msgstr "Dirección Línea Uno"
+
+#: includes/class.form.php:1070 includes/class.form.php:1158
+msgid "Address Line 2"
+msgstr "Dirección Línea Dos"
+
+#: includes/class.form.php:1075 includes/class.form.php:1163
+msgid "Address Line 3"
+msgstr "Dirección Línea Tres"
+
+#: includes/class.form.php:1083 includes/class.form.php:1170
+msgid "City"
+msgstr "Ciudad"
+
+#: includes/class.form.php:1087 includes/class.form.php:1174
+msgid "State"
+msgstr "Estado"
+
+#: includes/class.form.php:1091 includes/class.form.php:1178
+msgid "Zipcode"
+msgstr "Código Postal"
+
+#: includes/class.form.php:1097 includes/class.form.php:1184
+#: includes/class.settings.php:998
+msgid "Country"
+msgstr "País"
+
+#: includes/class.form.php:1103 includes/class.form.php:1190
+#: includes/class.output.php:968 submenus/manage.php:656
+msgid "Latitude"
+msgstr "Latitud"
+
+#: includes/class.form.php:1107 includes/class.form.php:1194
+#: includes/class.output.php:969 submenus/manage.php:656
+msgid "Longitude"
+msgstr "Longitud"
+
+#: includes/class.form.php:1111 includes/class.form.php:1198
+msgid "Geocode"
+msgstr " geolocalización"
+
+#: includes/class.form.php:1117 includes/class.form.php:1206
+msgid "Geocoding Address."
+msgstr "geocodificación de direcciones"
+
+#: includes/class.form.php:1218
+msgid "Add Address"
+msgstr "Agregar Dirección"
+
+#: includes/class.form.php:1240 includes/class.form.php:1271
+msgid "Phone Type"
+msgstr "Tipo de Teléfono"
+
+#: includes/class.form.php:1249 includes/class.form.php:1280
+#: includes/class.settings.php:728
+msgid "Phone Number"
+msgstr "Número Teléfonico"
+
+#: includes/class.form.php:1291
+msgid "Add Phone Number"
+msgstr "Agregar Teléfono"
+
+#: includes/class.form.php:1313 includes/class.form.php:1344
+msgid "Email Type"
+msgstr "Tipo de Correo Electrónico"
+
+#: includes/class.form.php:1322 includes/class.form.php:1353
+msgid "Email Address"
+msgstr "Dirección Correo Electrónico"
+
+#: includes/class.form.php:1364
+msgid "Add Email Address"
+msgstr "Agregar Dirección Correo Electrónico"
+
+#: includes/class.form.php:1386 includes/class.form.php:1416
+msgid "IM Type"
+msgstr "Tipo IM"
+
+#: includes/class.form.php:1395 includes/class.form.php:1425
+msgid "IM Network ID"
+msgstr "ID red de mensajería instantánea "
+
+#: includes/class.form.php:1436
+msgid "Add Messenger ID"
+msgstr "Agregar ID Messenger"
+
+#: includes/class.form.php:1458 includes/class.form.php:1489
+msgid "Social Network"
+msgstr "Red Social"
+
+#: includes/class.form.php:1467 includes/class.form.php:1498
+#: includes/class.form.php:1542 includes/class.form.php:1590
+msgid "URL"
+msgstr "URL"
+
+#: includes/class.form.php:1509
+msgid "Add Social Media ID"
+msgstr "Agregar ID Red Social"
+
+#: includes/class.form.php:1531 includes/class.form.php:1579
+#: includes/class.form.php:1635 includes/class.form.php:1669
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/class.form.php:1546 includes/class.form.php:1594
+msgid "Target"
+msgstr "Objetivo"
+
+#: includes/class.form.php:1546 includes/class.form.php:1594
+msgid "New Window"
+msgstr "Nueva Ventana"
+
+#: includes/class.form.php:1546 includes/class.form.php:1594
+msgid "Same Window"
+msgstr "Misma Ventana"
+
+#: includes/class.form.php:1551 includes/class.form.php:1599
+msgid "Assign link to the image."
+msgstr "Poner enlace a la imagen."
+
+#: includes/class.form.php:1552 includes/class.form.php:1600
+msgid "Assign link to the logo."
+msgstr "Poner enlace al logo."
+
+#: includes/class.form.php:1613
+msgid "Add Link"
+msgstr "Agregar Enlace"
+
+#: includes/class.form.php:1645 includes/class.form.php:1679
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/class.form.php:1692
+msgid "Add Date"
+msgstr "Agregar Fecha"
+
+#: includes/class.form.php:1710 includes/class.form.php:1728
+msgid "Field not available for this entry type."
+msgstr "El campo no está disponible para este tipo de entrada."
+
+#: includes/class.form.php:1818
+msgid "Select Entry"
+msgstr "Seleccionar Entrada"
+
+#: includes/class.form.php:1880 submenus/manage.php:529
+#: submenus/manage.php:614
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/class.form.php:1881 submenus/categories.php:95
+#: submenus/manage.php:402 submenus/manage.php:531
+msgid "Delete"
+msgstr "Borrar"
+
+#: includes/class.form.php:1895 includes/class.form.php:1898
+msgid "Count"
+msgstr "Contar"
+
+#: includes/class.form.php:1901
+msgid "ID"
+msgstr "ID"
+
+#: includes/class.form.php:1952 includes/class.settings.php:920
+#: submenus/categories.php:109 submenus/categories.php:119
+#: submenus/manage.php:436 submenus/manage.php:445
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/class.form.php:1955
+msgid "The name is how it appears on your site."
+msgstr "El nombre es como se muestra en su sitio."
+
+#: includes/class.form.php:1959 submenus/categories.php:111
+#: submenus/categories.php:121
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/class.form.php:1961
+msgid ""
+"The “slug” is the URL-friendly version of the name. It is usually all "
+"lowercase and contains only letters, numbers, and hyphens."
+msgstr ""
+"El “slug” es la versión amigable de la URL del nombre. Suele estar en "
+"minúsculas y contiene sólo letras, números y guiones."
+
+#: includes/class.form.php:1965
+msgid "Parent"
+msgstr "Superior"
+
+#: includes/class.form.php:1967
+msgid "None"
+msgstr "Ninguno"
+
+#: includes/class.form.php:1970
+msgid ""
+"Categories can have a hierarchy. You might have a Jazz category, and under "
+"that have children categories for Bebop and Big Band. Totally optional."
+msgstr ""
+"Las categorías pueden tener una jerarquía. Usted podría tener una categoría "
+"de Jazz, y bajo ésta tener sub-categorías para Bebop y Big Band. Totalmente "
+"opcional."
+
+#: includes/class.form.php:1974 submenus/categories.php:110
+#: submenus/categories.php:120
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/class.form.php:1976
+msgid ""
+"The description is not displayed by default; however, templates may be "
+"created or altered to show it."
+msgstr ""
+"La descripción no se muestra por defecto, sin embargo, las plantillas se "
+"pueden crear o modificar para mostrarlo."
+
+#: includes/class.message.php:116
+msgid ""
+"You are not authorized to view the entry list. Please contact the admin if "
+"you received this message in error."
+msgstr ""
+"No tiene autorización  para ver la lista de entradas. Por favor, póngase en "
+"contacto con el administrador si ha recibido este mensaje por error."
+
+#: includes/class.message.php:118
+msgid ""
+"You are not authorized to add entries. Please contact the admin if you "
+"received this message in error."
+msgstr ""
+"No tiene autorización para agregar entradas. Por favor, póngase en contacto "
+"con el administrador si ha recibido este mensaje por error."
+
+#: includes/class.message.php:119
+msgid ""
+"You are not authorized to delete entries. Please contact the admin if you "
+"received this message in error."
+msgstr ""
+"No tiene autorización para borrar las entradas. Por favor, póngase en "
+"contacto con el administrador si ha recibido este mensaje por error."
+
+#: includes/class.message.php:120
+msgid ""
+"You are not authorized to edit entries. Please contact the admin if you "
+"received this message in error."
+msgstr ""
+"No tiene autorización para editar las entradas. Por favor, póngase en "
+"contacto con el administrador si ha recibido este mensaje por error."
+
+#: includes/class.message.php:121
+msgid ""
+"You are not authorized to edit the categories. Please contact the admin if "
+"you received this message in error."
+msgstr ""
+"No tiene autorización para editar las categorías. Por favor, póngase en "
+"contacto con el administrador si ha recibido este mensaje por error."
+
+#: includes/class.message.php:122
+msgid ""
+"You are not authorized to edit the settings. Please contact the admin if you "
+"received this message in error."
+msgstr ""
+"No tiene autorización para editar la configuración. Por favor, póngase en "
+"contacto con el administrador si ha recibido este mensaje por error."
+
+#: includes/class.message.php:123
+msgid ""
+"You are not authorized to edit role capabilities. Please contact the admin "
+"if you received this message in error."
+msgstr ""
+"No tiene autorización para editar los roles de permisos. Por favor, póngase "
+"en contacto con el administrador si ha recibido este mensaje por error."
+
+#: includes/class.message.php:125
+msgid "The category you are trying to create already exists."
+msgstr "La categoría que está intentando crear ya existe."
+
+#: includes/class.message.php:126
+msgid "Category can not be a parent of itself."
+msgstr "Categoría no puede ser superior de sí mismo."
+
+#: includes/class.message.php:127
+msgid "The Uncategorized category can not be deleted."
+msgstr "No se puede borrar la categoría Sin Clasificación."
+
+#: includes/class.message.php:128
+msgid "The Uncategorized category can not be altered."
+msgstr "No se puede modificar la categoría Sin Clasificación "
+
+#: includes/class.message.php:129
+msgid "The Uncategorized category already exists."
+msgstr "La categoría Sin Clasificación ya existe"
+
+#: includes/class.message.php:130
+msgid "Failed to add category."
+msgstr "error al agregar categoría."
+
+#: includes/class.message.php:131
+msgid "Failed to update category."
+msgstr "error al actualizar la categoría"
+
+#: includes/class.message.php:132
+msgid "Failed to delete category."
+msgstr "error al borrar la categoría."
+
+#: includes/class.message.php:134
+msgid "Entry could not be added."
+msgstr "No se pudo agregar la entrada."
+
+#: includes/class.message.php:135
+msgid "Entry could not be updated."
+msgstr "No se pudo actualizar la entrada."
+
+#: includes/class.message.php:137
+msgid ""
+"Your preferred setting for a address was overridden because another address "
+"that you are not permitted to view or edit is set as the preferred address. "
+"Please contact the admin if you received this message in error."
+msgstr ""
+"Se anuló su configuración preferida para una direccion , debido a que  otra "
+"dirección la cuál no tiene permiso de ver o editar está configurada como "
+"direccion preferida. Favor de ponerse en contacto con el administrador si "
+"recibió este mensaje por error."
+
+#: includes/class.message.php:138
+msgid ""
+"Your preferred setting for a phone was overridden because another phone "
+"number that you are not permitted to view or edit is set as the preferred "
+"phone number. Please contact the admin if you received this message in error."
+msgstr ""
+"Se anuló su configuración preferida para un teléfono, debido a que otro "
+"teléfono el cuál no tiene autorización de ver o editar está configurado como "
+"teléfono preferido. Favor de ponerse en contacto con el administrador si "
+"recibió este mensaje por error."
+
+#: includes/class.message.php:139
+msgid ""
+"Your preferred setting for an email address was overridden because another "
+"email address that you are not permitted to view or edit is set as the "
+"preferred email address. Please contact the admin if you received this "
+"message in error."
+msgstr ""
+"Se anuló su configuración preferida para una dirección de correo electrónico "
+"debido a que otra dirección de correo electrónico que no tiene autorización "
+"para ver o editar se configuró como la dirección de correo electrónico "
+"preferido. Por favor, póngase en contacto con el administrador si ha "
+"recibido este mensaje por error."
+
+#: includes/class.message.php:140
+msgid ""
+"Your preferred setting for a IM Network was overridden because another IM "
+"Network that you are not permitted to view or edit is set as the preferred "
+"IM Network. Please contact the admin if you received this message in error."
+msgstr ""
+"Se anuló su configuración preferida para una red de mensajería instantánea  "
+"debido a que otra red de mensajería instantánea que no tiene autorización de "
+"ver o editar se estableció como la red de mensajería instantánea preferida. "
+"Por favor, póngase en contacto con el administrador si ha recibido este "
+"mensaje por error."
+
+#: includes/class.message.php:141
+msgid ""
+"Your preferred setting for a social media network was overridden because "
+"another social media network that you are not permitted to view or edit is "
+"set as the preferred social media network. Please contact the admin if you "
+"received this message in error."
+msgstr ""
+"Se anuló su configuración preferida para una red social debido a que otra "
+"red social  que usted no tiene autorización para ver o editar se configuró "
+"como la red social preferida.  Por favor, póngase en contacto con el "
+"administrador si ha recibido este mensaje por error."
+
+#: includes/class.message.php:142
+msgid ""
+"Your preferred setting for a link was overridden because another link that "
+"you are not permitted to view or edit is set as the preferred link. Please "
+"contact the admin if you received this message in error."
+msgstr ""
+"Se anuló su configuración preferida para un enlace debido a que otro enlace "
+"que no tiene autorización de ver o editar se estableció como el enlace "
+"preferido. Por favor, póngase en contacto con el administrador si ha "
+"recibido este mensaje por error."
+
+#: includes/class.message.php:143
+msgid ""
+"Your preferred setting for a date was overridden because another date that "
+"you are not permitted to view or edit is set as the preferred date. Please "
+"contact the admin if you received this message in error."
+msgstr ""
+"Se anuló su configuración preferida para una fecha debido a que otra fecha "
+"que no tiene autorización de ver o editar se estableció como fecha "
+"preferida. Por favor, póngase en contacto con el administrador si ha "
+"recibido este mensaje por error."
+
+#: includes/class.message.php:145
+msgid "Image upload failed."
+msgstr "Falló subir la imágen"
+
+#: includes/class.message.php:146
+msgid "Uploaded image could not be saved to the destination folder."
+msgstr " No se pudo guardar la imágen cargada en la carpeta de destino."
+
+#: includes/class.message.php:147
+msgid ""
+"Profile image could not be created and/or saved to the destination folder."
+msgstr ""
+"No se puede crear y / o guardar la imagen de perfil en la carpeta de destino."
+
+#: includes/class.message.php:148
+msgid ""
+"Entry image could not be created and/or saved to the destination folder."
+msgstr ""
+"No puede ser creado y / o guardar imágen de entrada en la carpeta de destino."
+
+#: includes/class.message.php:149
+msgid ""
+"Thumbnail image could not be created and/or saved to the destination folder."
+msgstr ""
+"No se puede crear y / o guardar la imagen en miniatura en la carpeta de "
+"destino."
+
+#: includes/class.message.php:151
+msgid "The template installation has failed."
+msgstr "Falló la instalación de la plantilla"
+
+#: includes/class.message.php:152
+msgid "The template could not be deleted."
+msgstr "No se pudo borrar la plantilla."
+
+#: includes/class.message.php:154
+msgid ""
+"Path ../wp-content/connection_images does not seem to exist. Please try "
+"deactivating and reactivating Connections."
+msgstr ""
+"No existe la Ruta  ../wp-content/connection_images. Favor de desactivar y "
+"reactivar Connections"
+
+#: includes/class.message.php:155
+msgid "Path ../wp-content/connection_images does not seem to be writeable."
+msgstr "Ruta ../wp-content/connection_images no es escribible."
+
+#: includes/class.message.php:157
+msgid ""
+"Path ../wp-content/connections_templates does not seem to exist. Please try "
+"deactivating and reactivating Connections."
+msgstr ""
+"No existe la Ruta  ../wp-content/connections_templates. Favor de desactivar "
+"y reactivar Connections"
+
+#: includes/class.message.php:158
+msgid "Path ../wp-content/connections_templates does not seem to be writeable."
+msgstr "La Ruta  ../wp-content/connections_templates no es escribible."
+
+#: includes/class.message.php:160
+msgid ""
+"Path ../wp-content/plugins/connections/cache does not seem to exist. Please "
+"try deactivating and reactivating Connections."
+msgstr ""
+"La ruta  ../wp-content/plugins/connections/cache no existe. Favor de "
+"desactivar y reactivar Connections."
+
+#: includes/class.message.php:161
+msgid ""
+"Path ../wp-content/plugins/connections/cache does not seem to be writeable."
+msgstr ""
+"La ruta  ../wp-content/plugins/connections/cache no parece ser escribible."
+
+#: includes/class.message.php:163
+msgid ""
+"The Connections directory home page has not been set. Please set it now on "
+"the Connections : Settings page under the General tab."
+msgstr ""
+"No ha definido la página del directiorio Connections. Favor de configurarla "
+"en Connections: Página configuración bajo la pestaña General."
+
+#: includes/class.message.php:168
+msgid "The entry has been deleted."
+msgstr "Se ha borrado la entrada."
+
+#: includes/class.message.php:169
+msgid "Entry(ies) have been deleted."
+msgstr "Se han borrado la(s) entrada(s)"
+
+#: includes/class.message.php:170
+msgid "The entry status have been set to pending."
+msgstr "El estado de la entrada se ha establecido como pendiente."
+
+#: includes/class.message.php:171
+msgid "Entry(ies) status have been set to pending."
+msgstr "Estado de entrada(s) se ha(n) establecido como pendiente."
+
+#: includes/class.message.php:172
+msgid "The entry has been approved."
+msgstr "Se ha aprobado la entrada."
+
+#: includes/class.message.php:173
+msgid "Entry(ies) have been approved."
+msgstr "Se han aprobado la(s) entrada(s)."
+
+#: includes/class.message.php:174
+msgid "Entry(ies) visibility have been updated."
+msgstr "Se ha(n) actualizado la(s) entrada(s)."
+
+#: includes/class.message.php:176
+msgid "Category(ies) have been deleted."
+msgstr "Se borraron la(s) categorías."
+
+#: includes/class.message.php:177
+msgid "Category has been updated."
+msgstr "Se actualizó la categoría"
+
+#: includes/class.message.php:178
+msgid "Category has been added."
+msgstr "Se agregó la Categoría"
+
+#: includes/class.message.php:180
+msgid "Entry has been added."
+msgstr "Se agregó la entrada"
+
+#: includes/class.message.php:181
+msgid "Pending review entry will be added."
+msgstr "Se agregará en cuanto se revise la entrada"
+
+#: includes/class.message.php:182
+msgid "Entry has been updated."
+msgstr "Se ha actualizado la entrada."
+
+#: includes/class.message.php:183
+msgid "Pending review entry will be updated."
+msgstr "En cuanto se revise la entrada se actualizara."
+
+#: includes/class.message.php:185
+msgid "Uploaded image saved."
+msgstr "Se guardó la imágen subida."
+
+#: includes/class.message.php:186
+msgid "Profile image created and saved."
+msgstr "Se creo y guardó la imágen de perfil."
+
+#: includes/class.message.php:187
+msgid "Entry image created and saved."
+msgstr "Se creo y guardó la imágen de la entrada."
+
+#: includes/class.message.php:188
+msgid "Thumbnail image created and saved."
+msgstr "Se creo y guardó la miniatura."
+
+#: includes/class.message.php:190
+msgid "Role capabilities have been updated."
+msgstr "Se actualizó el rol de permisos"
+
+#: includes/class.message.php:192
+msgid "The default active template has been changed."
+msgstr "La plantilla activa por defecto se cambió."
+
+#: includes/class.message.php:193
+msgid "A new template has been installed."
+msgstr "Se ha instalado una nueva plantilla."
+
+#: includes/class.message.php:194
+msgid "The template has been deleted."
+msgstr "Se borró la plantilla."
+
+#: includes/class.message.php:199
+msgid "Connections database requires updating."
+msgstr "Se necesita actualizar la base de datos de Connections"
+
+#: includes/class.message.php:199
+msgid "START"
+msgstr "Iniciar"
+
+#: includes/class.message.php:267 includes/class.message.php:305
+msgid "ERROR"
+msgstr "ERROR"
+
+#: includes/class.message.php:271 includes/class.message.php:309
+#: includes/inc.upgrade.php:79 includes/inc.upgrade.php:82
+#: includes/inc.upgrade.php:85 includes/inc.upgrade.php:88
+#: includes/inc.upgrade.php:91 includes/inc.upgrade.php:94
+#: includes/inc.upgrade.php:97 includes/inc.upgrade.php:100
+#: includes/inc.upgrade.php:103 includes/inc.upgrade.php:106
+#: includes/inc.upgrade.php:109 includes/inc.upgrade.php:112
+#: includes/inc.upgrade.php:115 includes/inc.upgrade.php:184
+#: includes/inc.upgrade.php:196 includes/inc.upgrade.php:199
+#: includes/inc.upgrade.php:587 includes/inc.upgrade.php:590
+#: includes/inc.upgrade.php:679 includes/inc.upgrade.php:682
+#: includes/inc.upgrade.php:735 includes/inc.upgrade.php:738
+#: includes/inc.upgrade.php:772 includes/inc.upgrade.php:775
+msgid "SUCCESS"
+msgstr "EXITO"
+
+#: includes/class.message.php:275 includes/class.message.php:313
+msgid "NOTICE"
+msgstr "NOTAR"
+
+#: includes/class.options.php:696
+msgid "Select Relation"
+msgstr "Seleccionar Relación"
+
+#: includes/class.options.php:697
+msgid "Aunt"
+msgstr "Tía"
+
+#: includes/class.options.php:698
+msgid "Brother"
+msgstr "Hermano"
+
+#: includes/class.options.php:699
+msgid "Brother-in-law"
+msgstr "Cuñado"
+
+#: includes/class.options.php:700
+msgid "Cousin"
+msgstr "Primo/a"
+
+#: includes/class.options.php:701
+msgid "Daughter"
+msgstr "Hija"
+
+#: includes/class.options.php:702
+msgid "Daughter-in-law"
+msgstr "Nuera"
+
+#: includes/class.options.php:703
+msgid "Father"
+msgstr "Padre"
+
+#: includes/class.options.php:704
+msgid "Father-in-law"
+msgstr "Suegro"
+
+#: includes/class.options.php:705
+msgid "Friend"
+msgstr "Amigo"
+
+#: includes/class.options.php:706
+msgid "Grand Daughter"
+msgstr "Nieta"
+
+#: includes/class.options.php:707
+msgid "Grand Father"
+msgstr "Abuelo"
+
+#: includes/class.options.php:708
+msgid "Grand Mother"
+msgstr "Abuela"
+
+#: includes/class.options.php:709
+msgid "Grand Son"
+msgstr "Nieto"
+
+#: includes/class.options.php:710
+msgid "Great Grand Mother"
+msgstr "Bisabuela"
+
+#: includes/class.options.php:711
+msgid "Great Grand Father"
+msgstr "Bisabuelo"
+
+#: includes/class.options.php:712
+msgid "Husband"
+msgstr "Esposo"
+
+#: includes/class.options.php:713
+msgid "Mother"
+msgstr "Madre"
+
+#: includes/class.options.php:714
+msgid "Mother-in-law"
+msgstr "Suegra"
+
+#: includes/class.options.php:715
+msgid "Nephew"
+msgstr "Sobrino"
+
+#: includes/class.options.php:716
+msgid "Niece"
+msgstr "Sobrina"
+
+#: includes/class.options.php:717
+msgid "Partner"
+msgstr "Socio"
+
+#: includes/class.options.php:718
+msgid "Significant Other"
+msgstr ""
+
+#: includes/class.options.php:719
+msgid "Sister"
+msgstr "Hermana"
+
+#: includes/class.options.php:720
+msgid "Sister-in-law"
+msgstr "Cuñada"
+
+#: includes/class.options.php:721
+msgid "Spouse"
+msgstr "Esposa"
+
+#: includes/class.options.php:722
+msgid "Son"
+msgstr "Hijo"
+
+#: includes/class.options.php:723
+msgid "Son-in-law"
+msgstr "Yerno"
+
+#: includes/class.options.php:724
+msgid "Step Brother"
+msgstr "Hermanastro"
+
+#: includes/class.options.php:725
+msgid "Step Daughter"
+msgstr "Hijastra"
+
+#: includes/class.options.php:726
+msgid "Step Father"
+msgstr "Padrastro"
+
+#: includes/class.options.php:727
+msgid "Step Mother"
+msgstr "Madrastra"
+
+#: includes/class.options.php:728
+msgid "Step Sister"
+msgstr "Hermanastra"
+
+#: includes/class.options.php:729
+msgid "Step Son"
+msgstr "Hijastro"
+
+#: includes/class.options.php:730
+msgid "Uncle"
+msgstr "Tío"
+
+#: includes/class.options.php:731
+msgid "Wife"
+msgstr "Esposa"
+
+#: includes/class.options.php:758 includes/class.settings.php:83
+msgid "Home"
+msgstr "Casa"
+
+#: includes/class.options.php:759
+msgid "Work"
+msgstr "Trabajo"
+
+#: includes/class.options.php:760
+msgid "School"
+msgstr "Escuela"
+
+#: includes/class.options.php:761
+msgid "Other"
+msgstr "Otros"
+
+#: includes/class.options.php:776
+msgid "Home Phone"
+msgstr "Teléfono Domicilio"
+
+#: includes/class.options.php:777
+msgid "Home Fax"
+msgstr "Fax Domicilio"
+
+#: includes/class.options.php:778
+msgid "Cell Phone"
+msgstr "Celular"
+
+#: includes/class.options.php:779
+msgid "Work Phone"
+msgstr "Teléfono Trabajo"
+
+#: includes/class.options.php:780
+msgid "Work Fax"
+msgstr "Fax Trabajo"
+
+#: includes/class.options.php:848
+msgid "Personal Email"
+msgstr "Email Personal"
+
+#: includes/class.options.php:849
+msgid "Work Email"
+msgstr "Email Trabajo"
+
+#: includes/class.options.php:864
+msgid "Website"
+msgstr "Página web"
+
+#: includes/class.options.php:865
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/class.options.php:881
+msgid "Baptism"
+msgstr "Bautismo"
+
+#: includes/class.options.php:883
+msgid "Deceased"
+msgstr "Difunto"
+
+#: includes/class.options.php:884
+msgid "Certification"
+msgstr "Certificado"
+
+#: includes/class.options.php:885
+msgid "Employment"
+msgstr "Empleo"
+
+#: includes/class.options.php:886
+msgid "Membership"
+msgstr " Miembros"
+
+#: includes/class.options.php:887
+msgid "Graduate High School"
+msgstr "Graduado de la Secundaria"
+
+#: includes/class.options.php:888
+msgid "Graduate College"
+msgstr "Graduado de la Universidad"
+
+#: includes/class.options.php:889
+msgid "Ordination"
+msgstr "Orden"
+
+#: includes/class.output.php:132 includes/class.output.php:133
+msgid "Photo of"
+msgstr "Foto de"
+
+#: includes/class.output.php:205 includes/class.output.php:206
+msgid "Logo for"
+msgstr "Logo de"
+
+#: includes/class.output.php:736 submenus/manage.php:629
+msgid "Contact"
+msgstr "Contacto"
+
+#: includes/class.output.php:2116
+msgid "Categories:"
+msgstr "Categorías:"
+
+#: includes/class.output.php:2282
+msgid "Add to Address Book."
+msgstr "Descargar VCard"
+
+#: includes/class.output.php:2283
+msgid "Download vCard"
+msgstr "Descargar vCard"
+
+#: includes/class.schema.php:115
+msgid ""
+"Entries not assigned to a category will automatically be assigned to this "
+"category and deleting a category which has been assigned to an entry will "
+"reassign that entry to this category. This category can not be edited or "
+"deleted."
+msgstr ""
+"Las entradas no asignadas a una categoría se asignarán automáticamente a "
+"esta categoría y al eliminar una categoría que ha sido asignada a una "
+"entrada volverá a asignarse esa entrada a esta categoría. Esta categoría no "
+"se puede editar o eliminar."
+
+#: includes/class.schema.php:117
+msgid "Uncategorized"
+msgstr "Sin Clasificar"
+
+#: includes/class.settings.php:28 includes/class.settings.php:114
+msgid "General"
+msgstr "General"
+
+#: includes/class.settings.php:42
+msgid "Images"
+msgstr "Imágenes"
+
+#: includes/class.settings.php:49 includes/class.template-parts.php:409
+msgid "Search"
+msgstr "Buscar"
+
+#: includes/class.settings.php:55
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: includes/class.settings.php:92
+msgid "Require Login"
+msgstr "Solicitar Ingresar"
+
+#: includes/class.settings.php:100
+msgid "Shortcode Visibility Overrides"
+msgstr "Abreviado Substitutye la Visibilidad"
+
+#: includes/class.settings.php:122
+msgid "Results List"
+msgstr "Lista Resultados"
+
+#: includes/class.settings.php:130
+msgid "List Actions"
+msgstr ""
+
+#: includes/class.settings.php:131
+msgid ""
+"Enable or disable various actions that are displayed above the result list."
+msgstr ""
+"Habilitar o deshabilitar diversas acciones que se muestran arriba de la "
+"lista de resultados."
+
+#: includes/class.settings.php:138
+msgid "Entry Actions"
+msgstr ""
+
+#: includes/class.settings.php:139
+msgid ""
+"Enable or disable various actions that are shown above the single entry."
+msgstr ""
+"Habilitar o deshabilitar diversas acciones arriba de la entrada individual"
+
+#: includes/class.settings.php:146
+msgid "Single Entry"
+msgstr "Seleccionar Entrada"
+
+#: includes/class.settings.php:158
+msgid "Image and Logo Instructions"
+msgstr "Instrucciones Imágen y Logo"
+
+#: includes/class.settings.php:168
+msgid "Thumbnail Image"
+msgstr "Miniatura Imágen"
+
+#: includes/class.settings.php:176
+msgid "Medium Image"
+msgstr "Imagen Mediana"
+
+#: includes/class.settings.php:184
+msgid "Large Image"
+msgstr "Imagen Grande"
+
+#: includes/class.settings.php:204
+msgid "Search Fields"
+msgstr "Campos de Búsqueda"
+
+#: includes/class.settings.php:216
+msgid "Permalink"
+msgstr "Enlace Permanente"
+
+#: includes/class.settings.php:234
+msgid "Compatibility"
+msgstr "Compatibilidad"
+
+#: includes/class.settings.php:243
+msgid "Debug"
+msgstr "depurar"
+
+#: includes/class.settings.php:273
+msgid "Page"
+msgstr "Hoja"
+
+#: includes/class.settings.php:277
+msgid "Select Page"
+msgstr "Seleccionar Hoja"
+
+#: includes/class.settings.php:287
+msgid "Login Required"
+msgstr "Necesario Ingresar"
+
+#: includes/class.settings.php:288
+msgid "Require registered users to login before showing the directory."
+msgstr ""
+"Exigir a los usuarios registrados que inicien sesión antes de mostrar el "
+"directorio."
+
+#: includes/class.settings.php:301
+msgid "Message"
+msgstr "Mensaje"
+
+#: includes/class.settings.php:302
+msgid ""
+"The message to display to site visitors or registered users not logged in."
+msgstr ""
+"El mensaje que se mostrará a los visitantes o usuarios registrados que no "
+"han iniciado sesión"
+
+#: includes/class.settings.php:314
+msgid "Enable public_override"
+msgstr "Habilitar substituir_píblico"
+
+#: includes/class.settings.php:315
+msgid ""
+"By default all entries whose status is Public will be visible to all site "
+"visitors or registered users not logged in. If the option to require login "
+"has been enabled, the <em>public_override</em> shortcode option allows you "
+"to override requiring the site vistor to be logged in. This setting is "
+"useful in multi author sites where those authors may have a need to display "
+"specific entries to the public. For security reasons this option is disabled "
+"by default. If checked, this enables this shortcode option."
+msgstr ""
+"Por defecto, todas las entradas, cuyo estado sea público será visible para "
+"todos los visitantes del sitio o de los usuarios registrados aunque no hayan "
+"iniciado sesión. Si se ha activado la opción de inicio de sesión el "
+"abreviado  <em>public_override</em> permite que el usuario no tener que "
+"iniciar sesión. Esta configuración es útil en sitios con varios autores que "
+"quizas necesiten mostrar publicamente ciertas entradas. Por razones de "
+"seguridad esta función está deshabilitadas. Si la selecciona, esto habilita "
+"la opción abreviada."
+
+#: includes/class.settings.php:327
+msgid "Enable private_override"
+msgstr "Habilitar substituir-privado "
+
+#: includes/class.settings.php:328
+msgid ""
+"Entries can be set to a Private status which requires the user to be logged "
+"in to the site in order for them to be able to view those entries. The "
+"<em>private_override</em> shortcode option allows you to override their "
+"\"Private\" status. This setting is useful in multi author sites where those "
+"authors may have a need to display specific private entries to the public. "
+"For security reasons this option is disabled by default. If checked, this "
+"enables this shortcode option."
+msgstr ""
+"Las entradas se pueden configurar como privadas, las cuáles requieren que el "
+"usuario haya iniciado sesión en el sitio con el fin de que puedan ver esas "
+"entradas. El <em> private_override </ em> opción abreviada le permite anular "
+"su estado de \"Privado \""
+
+#: includes/class.settings.php:344
+msgid "Date Format"
+msgstr ""
+
+#: includes/class.settings.php:345
+msgid ""
+"<a href=\"http://codex.wordpress.org/Formatting_Date_and_Time\" target="
+"\"_blank\">Documentation on date and time formatting</a>."
+msgstr ""
+
+#: includes/class.settings.php:359
+msgid "Character Index"
+msgstr "Indice caracteres"
+
+#: includes/class.settings.php:360
+msgid "Show the character index at the top of the results list."
+msgstr "Mostrar el índice de letras en la parte superior de los resultados"
+
+#: includes/class.settings.php:373
+msgid "Repeat the character index at the beginning of each character group."
+msgstr "Repetir el índice de letras al principio de cada grupo"
+
+#: includes/class.settings.php:386
+msgid "Show the current character at the beginning of each character group."
+msgstr "Mostrar la letra actual al principio de cada grupo de letras."
+
+#: includes/class.settings.php:400
+msgid ""
+"Show a \"View All\" link. When this option is enabled a \"View All\" link "
+"will be displayed."
+msgstr ""
+"Mostar enlace  \"Ver Todo\". Cuando se habilita esta opción se mostrara un "
+"enlace  \"Ver Todo\"."
+
+#: includes/class.settings.php:414
+msgid "Show the \"Back to Directory\" link."
+msgstr "Mostrar el enlace  \"Regresar al Directorio\""
+
+#: includes/class.settings.php:427
+msgid ""
+"Show the \"Add to Address Book\" link. This link allows the download of the "
+"entry's vCard."
+msgstr ""
+"Mosrar el enlace \"Descargar VCard\". Este enlace permite descargar la "
+"entrada de la vCard"
+
+#: includes/class.settings.php:441
+msgid ""
+"Display a single entry using the active template based on entry type. For "
+"example, if the entry is an organization it will be displayed using the "
+"template that is activated for the \"Organization\" template type found on "
+"the Connections : Templates admin page."
+msgstr ""
+"Mostrar una sola entrada usando la plantilla activa basada en el tipo de "
+"entrada. Por ejemplo, si la entrada es una organización esta se mostrara "
+"usando la plantilla que se haya activado para este tipo \"Organización\" que "
+"se encuentra en Connections: Página administrador de plantillas."
+
+#: includes/class.settings.php:457 includes/class.settings.php:518
+#: includes/class.settings.php:579 includes/class.settings.php:640
+msgid "JPEG Quality"
+msgstr "Calidad JPEG"
+
+#: includes/class.settings.php:472 includes/class.settings.php:533
+#: includes/class.settings.php:594 includes/class.settings.php:655
+msgid "Width"
+msgstr "Ancho"
+
+#: includes/class.settings.php:473 includes/class.settings.php:487
+#: includes/class.settings.php:534 includes/class.settings.php:548
+#: includes/class.settings.php:595 includes/class.settings.php:609
+#: includes/class.settings.php:656 includes/class.settings.php:670
+msgid "px"
+msgstr "px"
+
+#: includes/class.settings.php:486 includes/class.settings.php:547
+#: includes/class.settings.php:608 includes/class.settings.php:669
+msgid "Height"
+msgstr "Altura"
+
+#: includes/class.settings.php:500 includes/class.settings.php:561
+#: includes/class.settings.php:622 includes/class.settings.php:683
+msgid "Ratio"
+msgstr "Proporción"
+
+#: includes/class.settings.php:505 includes/class.settings.php:566
+#: includes/class.settings.php:627 includes/class.settings.php:688
+msgid "Crop, maintain aspect ratio."
+msgstr "Cortar, mantener la relación de aspecto."
+
+#: includes/class.settings.php:506 includes/class.settings.php:567
+#: includes/class.settings.php:628 includes/class.settings.php:689
+msgid "Fill, maintain aspect ratio."
+msgstr "Llenar, mantener proporción aspecto."
+
+#: includes/class.settings.php:507 includes/class.settings.php:568
+#: includes/class.settings.php:629 includes/class.settings.php:690
+msgid "None, scale to fit."
+msgstr "Ninguno, escalar"
+
+#: includes/class.settings.php:705
+msgid "Fields"
+msgstr "Campos"
+
+#: includes/class.settings.php:706
+msgid "The selected fields will be searched."
+msgstr "Se buscaran los campos seleccionados."
+
+#: includes/class.settings.php:719
+msgid "Biography"
+msgstr "Biografía"
+
+#: includes/class.settings.php:721
+msgid "Address Line One"
+msgstr "Línea 1 Dirección"
+
+#: includes/class.settings.php:722
+msgid "Address Line Two"
+msgstr "Línea Dos Dirección"
+
+#: includes/class.settings.php:723
+msgid "Address Line Three"
+msgstr "Línea Tres Dirección"
+
+#: includes/class.settings.php:724
+msgid "Address City"
+msgstr "Ciudad"
+
+#: includes/class.settings.php:725
+msgid "Address State"
+msgstr "Estado"
+
+#: includes/class.settings.php:726
+msgid "Address Zip Code"
+msgstr "Código Postal"
+
+#: includes/class.settings.php:727
+msgid "Address Country"
+msgstr "País"
+
+#: includes/class.settings.php:761
+msgid "FULLTEXT"
+msgstr "TEXTO COMPLETO"
+
+#: includes/class.settings.php:762
+msgid "Enable FULLTEXT query support."
+msgstr "Habilitar la compatibilidad de consulta de TEXTO COMPLETO."
+
+#: includes/class.settings.php:775
+msgid "Keyword Search"
+msgstr "Buscar"
+
+#: includes/class.settings.php:776
+msgid ""
+"Enable LIKE query support. Disabling this option can improve search results "
+"if the server configuration supports FULLTEXT queries. If you disable this "
+"option and searches do not yield results, this indicates that the server "
+"does not support FULLTEXT queries. If that is the case, re-enable this "
+"option and disable the FULLTEXT option. NOTE: If the FULLTEXT option is "
+"disabled, this option must be enabled. Additionally, search terms with three "
+"characters or less will be ignored. This can not be changed as this is a "
+"database limitation."
+msgstr ""
+
+#: includes/class.settings.php:792
+msgid "Character Base"
+msgstr "Letra Base"
+
+#: includes/class.settings.php:793
+msgid "Enter a custom structure for the initial character in the URL."
+msgstr "Introduzca una estructura personalizada para la categoría en la URL."
+
+#: includes/class.settings.php:807
+msgid "Category Base"
+msgstr "Categoría Base"
+
+#: includes/class.settings.php:808
+msgid "Enter a custom structure for the category in the URL."
+msgstr "Introduzca una estructura personalizada para la categoría en la URL."
+
+#: includes/class.settings.php:821
+msgid "Country Base"
+msgstr "País Base"
+
+#: includes/class.settings.php:822
+msgid "Enter a custom structure for the country in the URL."
+msgstr ""
+"Introduzca una estructura personalizada para el país en la dirección URL."
+
+#: includes/class.settings.php:835
+msgid "Region Base"
+msgstr "Región Base"
+
+#: includes/class.settings.php:836
+msgid "Enter a custom structure for the region (state/province) in the URL."
+msgstr ""
+"Introduzca una estructura personalizada para la región (estado / provincia) "
+"en la URL."
+
+#: includes/class.settings.php:849
+msgid "Locality Base"
+msgstr "Base Localización"
+
+#: includes/class.settings.php:850
+msgid "Enter a custom structure for the locality (city) in the URL."
+msgstr ""
+"Introduzca una estructura personalizada para la localidad (ciudad) en la URL."
+
+#: includes/class.settings.php:863
+msgid "Postal Code Base"
+msgstr "Base Código Postal"
+
+#: includes/class.settings.php:864
+msgid "Enter a custom structure for the postal code in the URL."
+msgstr ""
+"Introduzca una estructura personalizada para el código postal en la "
+"dirección URL"
+
+#: includes/class.settings.php:877
+msgid "Organization Base"
+msgstr ""
+
+#: includes/class.settings.php:878
+msgid "Enter a custom structure for the organization in the URL."
+msgstr ""
+
+#: includes/class.settings.php:891
+msgid "Department Base"
+msgstr ""
+
+#: includes/class.settings.php:892
+msgid "Enter a custom structure for the department in the URL."
+msgstr ""
+
+#: includes/class.settings.php:905
+msgid "Name Base"
+msgstr "Nombre Base"
+
+#: includes/class.settings.php:906
+msgid "Enter a custom structure for the entry slug in the URL."
+msgstr ""
+"Introduzca una estructura personalizada para la entrada slug en la URL."
+
+#: includes/class.settings.php:921
+msgid ""
+"Enabling this option will turn the name of every entry into a link. Clicking "
+"the link will take you to the page with only that entry."
+msgstr ""
+"Al habilitar esta opción se convertirá el nombre de cada entrada en un "
+"enlace. Haciendo clic en el enlace lo llevará a la página con sólo esa "
+"entrada."
+
+#: includes/class.settings.php:934
+msgid ""
+"Enabling this option will turn the name of organization into a link. "
+"Clicking the link will take you to the page filtered by that organization."
+msgstr ""
+
+#: includes/class.settings.php:947
+msgid ""
+"Enabling this option will turn the name of department into a link. Clicking "
+"the link will take you to the page filtered by that department."
+msgstr ""
+
+#: includes/class.settings.php:959
+msgid "Locality"
+msgstr ""
+
+#: includes/class.settings.php:960
+msgid ""
+"Enabling this option will turn the name of locality (city) into a link. "
+"Clicking the link will take you to the page filtered by that locality."
+msgstr ""
+
+#: includes/class.settings.php:972
+msgid "Region"
+msgstr ""
+
+#: includes/class.settings.php:973
+msgid ""
+"Enabling this option will turn the name of region (state/province) into a "
+"link. Clicking the link will take you to the page filtered by that region."
+msgstr ""
+
+#: includes/class.settings.php:985
+msgid "Postal Code"
+msgstr ""
+
+#: includes/class.settings.php:986
+msgid ""
+"Enabling this option will turn the postal code into a link. Clicking the "
+"link will take you to the page filtered by that postal code."
+msgstr ""
+
+#: includes/class.settings.php:999
+msgid ""
+"Enabling this option will turn the name of country into a link. Clicking the "
+"link will take you to the page filtered by that country."
+msgstr ""
+
+#: includes/class.settings.php:1012
+msgid "Telephone Number"
+msgstr "Teléfono"
+
+#: includes/class.settings.php:1013
+msgid ""
+"Enabling this option will turn every telephone number into a link that when "
+"clicked by the user on a mobile phone or computer with a telephony "
+"application installed will dial the number."
+msgstr ""
+"Al habilitar esta opción convertira cada número de teléfono en un enlace que "
+"al hacer clic el usuario en un teléfono móvil o una computadora con una "
+"aplicación de telefonía instalada marcará el número."
+
+#: includes/class.settings.php:1026
+msgid "Google Maps API v3"
+msgstr "Google Maps API v3"
+
+#: includes/class.settings.php:1027
+msgid ""
+"If the current active theme or another plugin loads the Google Maps API v3 "
+"uncheck this to prevent Connections from loading the Google Maps API. This "
+"could prevent potential conflicts. NOTE: This only applies to templates that "
+"utilize Google Maps."
+msgstr ""
+"Si el tema actual activo u otro plugin carga el API de Google Maps v3, "
+"desmarcar esta opción para evitar que Connections cargue el API de Google "
+"Maps. Esto podría evitar posibles conflictos. NOTA: Esto solo aplica a las "
+"plantillas que utilizan Google Maps."
+
+#: includes/class.settings.php:1039
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: includes/class.settings.php:1040
+msgid ""
+"By default Connections loads it's JavaScripts in the page footer uncheck "
+"this box to load them in the page header."
+msgstr ""
+"Por defecto Connections carga su JavaScripts en el pie de página no "
+"seleccione esta casilla para que se carguen en el encabezado de la página."
+
+#: includes/class.settings.php:1053
+msgid ""
+"Themes can break plugin shortcodes that output content on the page causing "
+"the content not to render correctly. If the templates do not display as "
+"expected try enabling this option."
+msgstr ""
+"Los temas pueden corromper los abreviados del plugin que muestran contenido "
+"en la página, causando que no despliegue ncorrectamente. Si las plantillas "
+"no despliegan como deberían, pruebe habilatamdp esta opción."
+
+#: includes/class.settings.php:1066
+msgid ""
+"Themes and plugins sometimes load a version of jQuery that is not bundled "
+"with WordPress. This is generally considered bad practice which can result "
+"in breaking plugins. Enabling this option will attempt to fix this issue. "
+"You should only enable this option at the direction of support."
+msgstr ""
+"Los temas y plugins en ocasiones cargan una versión de JQuery que no viene "
+"con WordPress. Generalmente esto se considera una mala practica que puede "
+"resultar en la corrupción de los plugins. Si habilita esta opción tratara de "
+"arreglar este problema. Solo debe de habilitar esta opción solicitando apoyo."
+
+#: includes/class.settings.php:1078
+msgid "Debug Messages"
+msgstr "Depurar Mensajes"
+
+#: includes/class.settings.php:1079
+msgid "Display debug messages."
+msgstr "Mostar Mensajes Depurados"
+
+#: includes/class.template-parts.php:64
+msgid "View All"
+msgstr "Ver todas%s"
+
+#: includes/class.template-parts.php:117
+msgid "Go back to directory."
+msgstr "Regresar al directorio"
+
+#: includes/class.template-parts.php:162 includes/inc.shortcodes.php:661
+msgid "No results."
+msgstr "Ningún Resultado"
+
+#: includes/class.template-parts.php:223 includes/class.template-parts.php:224
+msgid "Return to top."
+msgstr "Arriba"
+
+#: includes/class.template-parts.php:302
+#, php-format
+msgid "Updated %1$s ago."
+msgstr "Actualizado hace  %1$s "
+
+#: includes/class.template-parts.php:438
+msgid "Submit"
+msgstr "Enviar"
+
+#: includes/class.template-parts.php:538
+msgid "Current Character"
+msgstr "Letra Actual"
+
+#: includes/class.template-parts.php:661
+msgid "First Page"
+msgstr "Primera Hoja"
+
+#: includes/class.template-parts.php:662
+msgid "Previous Page"
+msgstr "Hoja Anterior"
+
+#: includes/class.template-parts.php:664
+msgid "Current Page"
+msgstr "Hoja Actual"
+
+#: includes/class.template-parts.php:664 submenus/manage.php:366
+msgid "of"
+msgstr "Deshabilitado"
+
+#: includes/class.template-parts.php:666
+msgid "Next Page"
+msgstr "Siguiente Hoja"
+
+#: includes/class.template-parts.php:667
+msgid "Last Page"
+msgstr "Ultima Hoja"
+
+#: includes/class.template-parts.php:706 includes/class.template-parts.php:797
+msgid "Select Category"
+msgstr "Sleccionar Categoría"
+
+#: includes/class.template-parts.php:708 includes/class.template-parts.php:799
+#: submenus/manage.php:286
+msgid "Show All Categories"
+msgstr "Ver todas las Categorías"
+
+#: includes/inc.shortcodes.php:61
+msgid "Future home of the landing pages, such a list of categories."
+msgstr "Futuras páginas de aterrizaje, por ejemplo lista de categorías"
+
+#: includes/inc.shortcodes.php:214 includes/inc.shortcodes.php:620
+#, php-format
+msgid "ERROR: Template %1$s not found."
+msgstr "ERROR: No se encuentra %1$s plantilla"
+
+#: includes/inc.upgrade.php:27
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: includes/inc.upgrade.php:39
+msgid "Upgrade Required"
+msgstr "Necesario actualizar"
+
+#: includes/inc.upgrade.php:40
+msgid ""
+"Your database tables are out of date and must be upgraded before you can "
+"continue."
+msgstr ""
+"Sus tablas de la base de datos están desactualizadas y deben actualizarse "
+"antes de poder continuar."
+
+#: includes/inc.upgrade.php:41
+msgid ""
+"If you would like to downgrade later, please first make a complete backup of "
+"your database tables."
+msgstr ""
+"Si usted desea hacer un downgrade más tarde, por favor, primero haga una "
+"copia de seguridad completa de las tablas de sus bases de datos."
+
+#: includes/inc.upgrade.php:42
+msgid "Start Upgrade"
+msgstr "Iniciar Actualización"
+
+#: includes/inc.upgrade.php:68
+msgid "Upgrade the database structure..."
+msgstr "Actualizar la estructura de la base de datos..."
+
+#: includes/inc.upgrade.php:74
+#, php-format
+msgid "Upgrade from database version %1$s to database version 0.1.0."
+msgstr ""
+"Actualización de la base de datos versión %1$s a la base de datos versión "
+"0.1.0."
+
+#: includes/inc.upgrade.php:78
+msgid "Changing \"id\" type-length/values to BIGINT(20)"
+msgstr "Cambiando  \"id\" valores/tipo-largo a BIGINT(20)"
+
+#: includes/inc.upgrade.php:81
+msgid "Adding Column... \"date_added\""
+msgstr "Agregando Columna... \"fecha_creación\""
+
+#: includes/inc.upgrade.php:84
+msgid "Adding Column... \"entry_type\""
+msgstr "Agregando Columna... \"tipo_entrada\""
+
+#: includes/inc.upgrade.php:87
+msgid "Adding Column... \"honorable_prefix\""
+msgstr "Agregando Columnan... \"prefijo_honorable\""
+
+#: includes/inc.upgrade.php:90
+msgid "Adding Column... \"middle_name\""
+msgstr "Agregando Columna... \"apellido\""
+
+#: includes/inc.upgrade.php:93
+msgid "Adding Column... \"honorable_suffix\""
+msgstr "Agregando Columna... \"sufijo_honorable\""
+
+#: includes/inc.upgrade.php:96
+msgid "Adding Column... \"social\""
+msgstr "Agregando Columna... \"social\""
+
+#: includes/inc.upgrade.php:99
+msgid "Adding Column... \"added_by\""
+msgstr "AgregandoColumna... \"agregado_por\""
+
+#: includes/inc.upgrade.php:102
+msgid "Adding Column... \"edited_by\""
+msgstr "Agregando Columna... \"editado_por\""
+
+#: includes/inc.upgrade.php:105
+msgid "Adding Column... \"owner\""
+msgstr "Agregando Columna... \"dueño\""
+
+#: includes/inc.upgrade.php:108
+msgid "Adding Column... \"status\""
+msgstr "Agregando Columna... \"esado\""
+
+#: includes/inc.upgrade.php:111
+msgid "Adding Column... \"contact_first_name\""
+msgstr "Agregando Columna... \"nombre_contacto\""
+
+#: includes/inc.upgrade.php:114
+msgid "Adding Column... \"contact_last_name\""
+msgstr "Agregando Columna... \"apellido_contacto\""
+
+#: includes/inc.upgrade.php:118
+msgid "Adding default term relationship."
+msgstr "Agregando término relación predeterminado."
+
+#: includes/inc.upgrade.php:138
+#, php-format
+msgid "Upgrade from database version %1$s to database version 0.1.1."
+msgstr ""
+"Actualización de la base de datos versión %1$s a la base de datos versión "
+"0.1.1."
+
+#: includes/inc.upgrade.php:140
+msgid "Setting all current entries to the \"approved\" status."
+msgstr "Configurando todas las entradas actuales al estado \"aprobado \""
+
+#: includes/inc.upgrade.php:151
+#, php-format
+msgid "Upgrade from database version %1$s to database version 0.1.2."
+msgstr ""
+"Actualización de la base de datos versión %1$s  a la base de datos versión "
+"0.1.2."
+
+#: includes/inc.upgrade.php:153
+msgid "Setting all current entries `entry_type` column."
+msgstr "Configurando todas las entradas actuales `` tipo_entrada` columna."
+
+#: includes/inc.upgrade.php:180
+#, php-format
+msgid "Upgrade from database version %1$s to database version 0.1.3."
+msgstr ""
+"Actualización de la base de datos versón %1$s a la base de datos versión  "
+"0.1.3."
+
+#: includes/inc.upgrade.php:183
+msgid "Changing column name from group_name to family_name..."
+msgstr "Cambiando nombre de la columna de nombre_del_grupo a apellido..."
+
+#: includes/inc.upgrade.php:192
+#, php-format
+msgid "Upgrade from database version %1$s to database version 0.1.4."
+msgstr ""
+"Actualizando de la base de datos versión %1$s a la base de datos versión "
+"0.1.4."
+
+#: includes/inc.upgrade.php:195
+msgid "Changing column name from honorable_prefix to honorific_prefix..."
+msgstr ""
+"Cambiando el nombre de la columna  prefijo_honorable a "
+"prefijoc_honorifico ..."
+
+#: includes/inc.upgrade.php:198
+msgid "Changing column name from honorable_suffix to honorific_suffix..."
+msgstr ""
+"Cambiando nombre de la columna sufijo_honorable a sufijo_honorifico... "
+
+#: includes/inc.upgrade.php:210
+#, php-format
+msgid "Upgrade from database version %1$s to database version 0.1.5."
+msgstr ""
+"Actualización de la base de datos versión %1$s a la base de datos versión "
+"0.1.5."
+
+#: includes/inc.upgrade.php:215
+msgid "Add the entry meta table."
+msgstr "Agregar la entrada tabla meta."
+
+#: includes/inc.upgrade.php:239
+#, php-format
+msgid "Upgrade from database version %1$s to database version 0.1.6."
+msgstr ""
+"Actualización de la base de datos versión  %1$s a la base de datos versión "
+"0.1.6."
+
+#: includes/inc.upgrade.php:244
+msgid "Add the entry address table."
+msgstr "Agregar entrada tabla direcciones."
+
+#: includes/inc.upgrade.php:268
+msgid "Porting addresses..."
+msgstr "Importando direcciones..."
+
+#: includes/inc.upgrade.php:335
+msgid "Porting phone numbers..."
+msgstr "Importando teléfonos..."
+
+#: includes/inc.upgrade.php:372
+msgid "Add the entry email table."
+msgstr "Agregar entrada tabla correos electrónicos."
+
+#: includes/inc.upgrade.php:388
+msgid "Porting email addresses..."
+msgstr "Importando direcciones correos electrónicos..."
+
+#: includes/inc.upgrade.php:425
+msgid "Add the entry messenger table."
+msgstr "Agregar entrada tabla mensajes."
+
+#: includes/inc.upgrade.php:441
+msgid "Porting IM IDs..."
+msgstr "Importando IM IDs..."
+
+#: includes/inc.upgrade.php:476
+msgid "Add the entry social media table."
+msgstr "Agregar la tabla redes sociales"
+
+#: includes/inc.upgrade.php:492
+msgid "Porting Social Media IDs..."
+msgstr "Importando IDs Redes Sociales"
+
+#: includes/inc.upgrade.php:527
+msgid "Add the entry link table."
+msgstr "Agregar entrada tabla enlaces."
+
+#: includes/inc.upgrade.php:546
+msgid "Porting websites..."
+msgstr "Importando Sitios web..."
+
+#: includes/inc.upgrade.php:586
+msgid "Changing column name from websites to links..."
+msgstr "Cambiando nombre de la columna de los sitios web a enlaces ..."
+
+#: includes/inc.upgrade.php:589
+msgid "Adding column... \"slug\""
+msgstr "Agregando columna... \"slug\""
+
+#: includes/inc.upgrade.php:592
+msgid "Adding entry slugs..."
+msgstr "Agregando entrada de slugs..."
+
+#: includes/inc.upgrade.php:674
+#, php-format
+msgid "Upgrade from database version %1$s to database version 0.1.7."
+msgstr ""
+"Actualización de base de datos versión %1$s a la base de datos versión 0.1.7."
+
+#: includes/inc.upgrade.php:678
+msgid "Adding column \"image\" to the links table."
+msgstr "Agregando columna \"imagen \" a la tabla de enlaces."
+
+#: includes/inc.upgrade.php:681
+msgid "Adding column \"logo\" to the links table."
+msgstr "Agregando columna  \"logo\" a la tabla de enlaces."
+
+#: includes/inc.upgrade.php:713
+#, php-format
+msgid "Upgrade from database version %1$s to database version 0.1.8."
+msgstr ""
+"Actualización de la base de datos versión %1$s a la base de datos versión "
+"0.1.8."
+
+#: includes/inc.upgrade.php:715
+msgid "NOTE"
+msgstr "NOTA"
+
+#: includes/inc.upgrade.php:715
+msgid ""
+"You might receive this error: \"The used table type doesn't support FULLTEXT "
+"indexes\"."
+msgstr ""
+"Es posible que reciba este error: \"El tipo de tabla usada no permite  "
+"índices TEXTO COMPLETO\"."
+
+#: includes/inc.upgrade.php:717
+msgid ""
+"This is not a critical error. What this means is that the database does not "
+"support FULLTEXT query statments. Connections will perform a secondary "
+"search query in order to return search results."
+msgstr ""
+"Esto no es un error crítico. Lo que esto significa es que la base de datos "
+"no es compatible con consultas TEXTO COMPLETO. Connections llevará a cabo "
+"una segunda consulta para devolver resultados de búsqueda."
+
+#: includes/inc.upgrade.php:731
+msgid ""
+"The activate action for Connections 0.7.2.2 was not properly updated which "
+"created a fatal bug for new installations of Connections. Checking for the "
+"missing table columns in the Links table and add them, if missing."
+msgstr ""
+"La activaciónr de conexiones 0.7.2.2 no se actualizó correctamente, "
+"produciendo un error fatal para las nuevas instalaciones de Connections. "
+"Comprobando las columnas faltantes en la tabla de Enlaces y agregandolas si "
+"faltan."
+
+#: includes/inc.upgrade.php:734
+msgid "Adding, if missing, column \"image\" to the links table."
+msgstr "Agregando,  si falta, la columna \"imágen \" a la tabla de enlaces."
+
+#: includes/inc.upgrade.php:737
+msgid "Adding, if missing, column \"logo\" to the links table."
+msgstr "Agregando, si falta, la columna \"logo \" a la tabla de enlaces."
+
+#: includes/inc.upgrade.php:749
+#, php-format
+msgid "Upgrade from database version %1$s to database version 0.1.9."
+msgstr ""
+"Actualización de la base de datos versión %1$s a la base de datos versión  "
+"0.1.9."
+
+#: includes/inc.upgrade.php:754
+msgid "Add the date table."
+msgstr "Agregar la tabla fecha"
+
+#: includes/inc.upgrade.php:771
+msgid "Adding column... \"user\""
+msgstr "Agregando columna... \"usurario\""
+
+#: includes/inc.upgrade.php:774
+msgid "Adding column... \"dates\""
+msgstr "Agregando Columna... \"fechas\""
+
+#: includes/inc.upgrade.php:787
+msgid "Upgrade completed."
+msgstr "Actualización completada."
+
+#: includes/inc.upgrade.php:788
+msgid "Continue"
+msgstr "Continuar"
+
+#: includes/inc.upgrade.php:831
+#, php-format
+msgid "Could not add column %1$s in table %2$s."
+msgstr "No se pudo agregar column %1$s en la tabla %2$s."
+
+#: submenus/categories.php:43
+msgid "Edit Category"
+msgstr "Editar Categoría"
+
+#: submenus/categories.php:61
+msgid "Update Category"
+msgstr "Actualizar Categoría"
+
+#: submenus/categories.php:94 submenus/manage.php:389
+msgid "Bulk Actions"
+msgstr "Acciones en bloque"
+
+#: submenus/categories.php:97 submenus/manage.php:412
+msgid "Apply"
+msgstr "Aplicar"
+
+#: submenus/categories.php:112 submenus/categories.php:122
+msgid "Info"
+msgstr "Información"
+
+#: submenus/categories.php:153
+msgid ""
+"<strong>Note:</strong><br/>Deleting a category which has been assigned to an "
+"entry will reassign that entry as <strong>Uncategorized</strong>."
+msgstr ""
+"<strong>Nota</strong><br/>Al eliminar una categoría, que ha sido asignado a "
+"una entrada volverá a asignar esa entrada como <strong>Sin Clasificación</"
+"strong>."
+
+#: submenus/categories.php:162 submenus/categories.php:177
+msgid "Add New Category"
+msgstr "Agregar Nueva Categoría"
+
+#: submenus/manage.php:76 submenus/manage.php:151
+msgid ""
+"<strong>ERROR:</strong> You are not authorized to add entries. Please "
+"contact the admin if you received this message in error."
+msgstr ""
+"<strong>ERROR:</strong>No tiene autorización para agregar entradas. Por "
+"favor, póngase en contacto con el administrador si ha recibido este mensaje "
+"por error."
+
+#: submenus/manage.php:84
+msgid "Copy Entry"
+msgstr "Copiar Entrada"
+
+#: submenus/manage.php:227
+msgid ""
+"<strong>ERROR:</strong> You are not authorized to edit entries. Please "
+"contact the admin if you received this message in error."
+msgstr ""
+"<strong>ERROR:</strong> No tiene autorización de editar entradas. Favor de "
+"ponerse en contacto con el administrador si recibió este mensaje por error."
+
+#: submenus/manage.php:240
+msgid "Add New"
+msgstr "Agregar Nuevo"
+
+#: submenus/manage.php:265 submenus/templates.php:38
+msgid "All"
+msgstr "Todos"
+
+#: submenus/manage.php:266
+msgid "Approved"
+msgstr "Aprobado"
+
+#: submenus/manage.php:267
+msgid "Moderate"
+msgstr "Moderar"
+
+#: submenus/manage.php:274 submenus/manage.php:276
+msgid "Search Entries"
+msgstr "Buscar Entradas"
+
+#: submenus/manage.php:293
+msgid "Show All Entries"
+msgstr "Ver Todas las Entradas"
+
+#: submenus/manage.php:294
+msgid "Show Individuals"
+msgstr "Ver Individuos"
+
+#: submenus/manage.php:295
+msgid "Show Organizations"
+msgstr "Ver Organizaciones"
+
+#: submenus/manage.php:296
+msgid "Show Families"
+msgstr "Ver Familias"
+
+#: submenus/manage.php:304
+msgid "Show Public"
+msgstr "Ver Público"
+
+#: submenus/manage.php:305
+msgid "Show Private"
+msgstr "Ver Privado"
+
+#: submenus/manage.php:306
+msgid "Show Unlisted"
+msgstr "Ver No Listadas"
+
+#: submenus/manage.php:312
+msgid "Show All"
+msgstr "Ver Todo"
+
+#: submenus/manage.php:325
+#, php-format
+msgid "Displaying %1$d of %2$d entries."
+msgstr "Mostrando  %1$d de %2$d entradas."
+
+#: submenus/manage.php:363
+msgid "Go to the first page."
+msgstr "Ir a la primera hoja."
+
+#: submenus/manage.php:364
+msgid "Go to the previous page."
+msgstr "Ir a la página anterior."
+
+#: submenus/manage.php:366
+msgid "Current page"
+msgstr "Página actual."
+
+#: submenus/manage.php:368
+msgid "Go to the next page."
+msgstr "Ir a la siguiente página"
+
+#: submenus/manage.php:369
+msgid "Go to the last page."
+msgstr "Ir a la última página"
+
+#: submenus/manage.php:394 submenus/manage.php:526
+msgid "Unapprove"
+msgstr "No autorizar"
+
+#: submenus/manage.php:395 submenus/manage.php:527
+msgid "Approve"
+msgstr "Aprobar"
+
+#: submenus/manage.php:396
+msgid "Set Public"
+msgstr "Público"
+
+#: submenus/manage.php:397
+msgid "Set Private"
+msgstr "Privado"
+
+#: submenus/manage.php:398
+msgid "Set Unlisted"
+msgstr "Establecer sin Listar"
+
+#: submenus/manage.php:423
+msgid "Filter by character:"
+msgstr "Filtrar por letra:"
+
+#: submenus/manage.php:438 submenus/manage.php:447
+msgid "Last Modified"
+msgstr "Modificado Ultimamente"
+
+#: submenus/manage.php:499
+msgid "No Photo Available"
+msgstr "No hay Foto Disponible"
+
+#: submenus/manage.php:516
+msgid "Show Details"
+msgstr "Ver Detalles"
+
+#: submenus/manage.php:517
+msgid "vCard"
+msgstr "vCard"
+
+#: submenus/manage.php:520
+#, php-format
+msgid "View %s"
+msgstr "Ver %s"
+
+#: submenus/manage.php:521
+msgid "View"
+msgstr "Ver"
+
+#: submenus/manage.php:530
+msgid "Copy"
+msgstr "Copiar"
+
+#: submenus/manage.php:563
+msgid "By"
+msgstr "Por"
+
+#: submenus/manage.php:585
+msgid "Linked to:"
+msgstr ""
+
+#: submenus/manage.php:747
+msgid "Bio"
+msgstr "Bio"
+
+#: submenus/manage.php:751
+msgid "Entry ID"
+msgstr "ID Entrada"
+
+#: submenus/manage.php:752
+msgid "Entry Slug"
+msgstr "Entrada Slug"
+
+#: submenus/manage.php:753
+msgid "Date Added"
+msgstr "Fecha que se agregó"
+
+#: submenus/manage.php:754
+msgid "Added By"
+msgstr "Agregado por"
+
+#: submenus/manage.php:755
+msgid "Image Linked"
+msgstr "Imagen enlazada"
+
+#: submenus/roles.php:31
+msgid "Roles &amp; Capabilities"
+msgstr "Roles &amp; Permisos"
+
+#: submenus/roles.php:48
+msgid "Save Changes or Reset"
+msgstr "Salvar Cambios o Resetear"
+
+#: submenus/roles.php:56
+msgid "Reset All Role Capabilities"
+msgstr "Restablecer  %s Permisos"
+
+#: submenus/roles.php:108
+#, php-format
+msgid "Reset %s Capabilities"
+msgstr "Restablecer  %s Permisos"
+
+#: submenus/templates.php:35
+msgid "Get More"
+msgstr "Obtener más"
+
+#: submenus/templates.php:52
+msgid "Current Template"
+msgstr "Plantilla actual."
+
+#: submenus/templates.php:70 submenus/templates.php:158
+msgid "Thumbnail Not Available"
+msgstr "No hay Miniatura Disponible"
+
+#: submenus/templates.php:75
+msgid "Visit author's homepage."
+msgstr "Visitar página autor"
+
+#: submenus/templates.php:94
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#: submenus/templates.php:96
+msgid ""
+"By default the <code><a href=\"http://connections-pro.com/documentation/"
+"plugin/shortcodes/shortcode-connections/\">[connections]</a></code> "
+"shortcode will show all entries types. To change the template used when "
+"displaying all entry types, select the \"All\" tab and activate the "
+"template. When the <code><a href=\"http://connections-pro.com/documentation/"
+"plugin/shortcodes/shortcode-connections/list_type/\">list_type</a></"
+"code>shortcode option is used to filter the entries based on the entry type, "
+"the template for that entry type will be used. To change the template used "
+"for a specific entry type, select the appropriate tab and then activate the "
+"template. If multiple entry types are specified in the <code><a href="
+"\"http://connections-pro.com/documentation/plugin/shortcodes/shortcode-"
+"connections/list_type/\">list_type</a></code> shortcode option, the template "
+"for the entry type listed first will be used to display the entry list."
+msgstr ""
+
+#: submenus/templates.php:100
+msgid ""
+"The <code><a href=\"http://connections-pro.com/documentation/plugin/"
+"shortcodes/shortcode-upcoming-list/\">[upcoming_list]</a></code> shortcode "
+"which displays the upcoming anniversaries and birthdays will be displayed "
+"with the template that is activated under their respective tabs."
+msgstr ""
+"El <code><a href=\"http://connections-pro.com/documentation/plugin/"
+"shortcodes/shortcode-upcoming-list/\">[upcoming_list]</a></code> abreviado "
+"que muestra los próximos aniversarios y cumpleaños los desplegara con la "
+"plantilla que este activada bajo sus pestañas correspondientes"
+
+#: submenus/templates.php:104
+msgid ""
+"The current active template for each template type can be overridden by "
+"using the <code><a href=\"http://connections-pro.com/documentation/plugin/"
+"shortcodes/shortcode-connections/template/\">template</a></code> shortcode "
+"option."
+msgstr ""
+"La plantilla actual activa para cada tipo de plantilla se puede anular "
+"mediante la<code><a href=\"http://connections-pro.com/documentation/plugin/"
+"shortcodes/shortcode-connections/template/\">plantilla</a></code> opción "
+"abreviada."
+
+#: submenus/templates.php:115
+msgid "Available Templates"
+msgstr "Administrar Plantillas"
+
+#: submenus/templates.php:170
+msgid "Shortcode Override:"
+msgstr "Abreviado Substitutye:"
+
+#: submenus/templates.php:173
+msgid "This a supplied template and can not be deleted."
+msgstr "No se pude borrar la plantilla."
+
+#: submenus/templates.php:175
+msgid ""
+"This template is a plugin. You can deactivate and delete the template from "
+"the Plugins admin page."
+msgstr ""
+"La plantilla es un plugin. Usted puede desactivar y borrar la plantilla "
+"desde la hoja administración de Plugins "
+
+#: submenus/templates.php:190
+msgid "Activate"
+msgstr "Activar"
+
+#: submenus/templates.php:221
+msgid "Install Legacy Template"
+msgstr ""
+
+#: submenus/templates.php:223
+msgid ""
+"If you puchased your template after 3.25.2013, please follow these <a href="
+"\"http://connections-pro.com/documentation/plugin/install/templates/"
+"\">installation instructions</a>. If you are upgrading your template "
+"purchased prior to 3.25.2013, please take note of the special upgrade "
+"instructions found on the same page."
+msgstr ""
+
+#: submenus/templates.php:239
+msgid "Select Template:"
+msgstr "Seleccionar Plantilla:"
+
+#: submenus/templates.php:242
+msgid "Install Now"
+msgstr "Instalar Ahora"

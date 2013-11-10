@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyStream Soudncloud\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-04 14:30+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Peter Hofman <blackphantom25@gmail.com>\n"
+"Language-Team: BuddyStream\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: english\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud\n"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/core.php:76
+msgid "Soundcloud tracks"
+msgstr "Soundcloud tracks"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/core.php:96
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/core.php:116
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/import.php:12
+msgid "Soundcloud API server offline at the moment."
+msgstr "Soundcloud API server offline at the moment."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminSettings.php:24
+msgid "Settings saved."
+msgstr "Settings saved."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminSettings.php:30
+msgid "soundcloud settings description"
+msgstr "For BuddyStream to work you will need to get an API key from Soundcloud.<br><br>To get a API key, follow these steps:<br>1. Go to <a href=\"http://soundcloud.com/you/apps/new\" target=\"_blank\">http://soundcloud.com/you/apps/new</a> and login with your Soundcloud account.<br>2. Create a new app and set the redirect URI: <b>#ROOTDOMAIN</b><br>3. Fill in the client id and client secret below."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminSettings.php:37
+msgid "Soundcloud API"
+msgstr "Soundcloud API"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminSettings.php:41
+msgid "Client ID:"
+msgstr "Client ID:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminSettings.php:46
+msgid "Client secret key:"
+msgstr "Client secret key:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminSettings.php:53
+msgid "User options"
+msgstr "User options"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminSettings.php:57
+msgid "Hide soundcloud on the sidewide activity stream?"
+msgstr "Hide soundcloud on the sidewide activity stream?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminSettings.php:62
+msgid "Show  Soundcloud tracks (album) on user profile page?"
+msgstr "Facebook"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminSettings.php:67
+msgid "Maximum tracks to be imported per user, per day (empty = unlimited tracks import):"
+msgstr "Maximum tracks to be imported per user, per day (empty = unlimited tracks import):"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminSettings.php:76
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminStatitics.php:5
+msgid "soundcloud statitics description"
+msgstr "Below you see a table with some nice to know statistics, i may help you to monitor you members social interaction."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminStatitics.php:9
+msgid "Statistics"
+msgstr "Statistics"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminStatitics.php:27
+msgid "Amount of users:"
+msgstr "Amount of users:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminStatitics.php:31
+msgid "Amount of user Soundcloud intergration:"
+msgstr "Amount of user Soundcloud intergration:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminStatitics.php:35
+msgid "Percentage of users Soundcloud using intergration:"
+msgstr "Percentage of users Soundcloud using intergration:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminStatitics.php:39
+msgid "Amount of activity updates:"
+msgstr "Amount of activity updates:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminStatitics.php:43
+msgid "Amount of tracks updates:"
+msgstr "Amount of tracks updates:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminStatitics.php:47
+msgid "Percentage of tracks in activity updates:"
+msgstr "Percentage of tracks in activity updates:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminStatitics.php:51
+msgid "Average tracks import per day:"
+msgstr "Average tracks import per day:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminStatitics.php:55
+msgid "Average tracks import per week:"
+msgstr "Average tracks import per week:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminStatitics.php:59
+msgid "Average tracks import per month:"
+msgstr "Average tracks import per month:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminStatitics.php:63
+msgid "Average tracks import per year:"
+msgstr "Average tracks import per year:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/UserSettings.php:11
+msgid ""
+"Soundcloud setup</h3>\n"
+"             You may setup you Soundcloud intergration over here.<br>\n"
+"             Before you can begin using Soundcloud with this site you must authorize on Soundcloud by clicking the link below."
+msgstr ""
+"Soundcloud setup</h3>\n"
+"             You may setup you Soundcloud intergration over here.<br>\n"
+"             Before you can begin using Soundcloud with this site you must authorize on Soundcloud by clicking the link below."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/UserSettings.php:21
+msgid "Click here to start authorization"
+msgstr "Click here to start authorization"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/UserSettings.php:23
+msgid "Soundcloud is currently offline please come back in a while."
+msgstr "Soundcloud is currently offline please come back in a while."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/UserSettings.php:27
+msgid "Remove my Soundcloud settings"
+msgstr "Remove my Soundcloud settings"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/UserSettings.php:26
+msgid ""
+"Soundcloud setup</h3>You are succefully connected to Soundcloud!<br/><br/>\n"
+"               <br/><strong><a href=\"?reset=true\">"
+msgstr ""
+"Soundcloud setup</h3>You are succefully connected to Soundcloud!<br/><br/>\n"
+"               <br/><strong><a href=\"?reset=true\">"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminUsers.php:13
+msgid "\"User integration has been reset. Note: User will have to reconnect their integration if desired.\""
+msgstr "\"User integration has been reset. Note: User will have to reconnect their integration if desired.\""
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminUsers.php:18
+msgid "Are you sure ?"
+msgstr "Are you sure ?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminUsers.php:27
+msgid "soundcloud users description"
+msgstr "Below is a list of all users whom are using Soundcloud. You may reset there Soundcloud settings here. <br> <b>Note:</b> When you reset a user they need to re-authenticate with Soundcloud. Tracks already imported <b>WILL NOT</b> be deleted!"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminUsers.php:33
+msgid "Username"
+msgstr "Username"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminUsers.php:34
+msgid "E-mail"
+msgstr "E-mail"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminUsers.php:35
+msgid "Tracks imported"
+msgstr "Tracks imported"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/AdminUsers.php:36
+msgid "Reset user"
+msgstr "Reset user"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/UserTracks.php:1
+msgid "Soundcloud Tracks"
+msgstr "Soundcloud Tracks"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/soundcloud/templates/UserTracks.php:20
+msgid "User has no tracks (yet)"
+msgstr "User has no tracks (yet)"
+

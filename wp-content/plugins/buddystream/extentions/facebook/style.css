@@ -1,0 +1,115 @@
+/*
+ * Facebook extension stylesheet
+ */
+
+.facebook_share_button
+{
+    float                   : left;
+    background-color        : #515151;
+    width                   : 97px;
+    height                  : 20px;
+    font-size               : 12px;
+    line-height             : 20px;
+    font-weight             : bold;
+    color                   : #ffffff;
+    cursor                  : pointer;
+    padding                 : 3px;
+    margin-top              : 10px;
+    margin-right            : 10px;
+    text-shadow             : 0px 0px 0px;
+    -webkit-border-radius   : 5px;
+    -moz-border-radius      : 5px;
+    border-radius           : 5px;
+    
+}
+
+.facebook_share_button img{
+    padding-left            : 5px;
+    padding-right           : 5px;
+    padding-top             : 2px;
+    float                   : left;
+}
+
+.facebook_share_counter{
+    padding-left            : 5px;
+    padding-right           : 5px;
+    margin-top              : 10px;
+    float                   : left;
+    font-size               : 13px;
+    display                 : none;
+    height                  : 20px;
+}
+
+.facebook_like_container{
+    display                 :inline-block;
+    padding-right           :5px;
+}
+
+.facebook_container_image img{
+    padding-left            : 5px;
+    padding-right           : 5px;
+    padding-top             : 2px;
+    float                   : left;
+}
+
+.facebook_container_message{
+    min-height:125px;
+}
+
+.buddystream_facebook_album{
+    position        : relative;
+}
+
+.buddystream_facebook_album .facebook_container_message{
+    display         : none;    
+}
+
+.buddystream_facebook_album .facebook_container_image img{
+    float           : left;
+    padding         : 0px;
+    margin-right    : 10px;
+    margin-bottom   : 10px;
+    border          : 1px solid #cecece;
+    max-height      : 60px;
+}
+
+.buddystream_facebook_album_navigation{
+    position        : relative;
+    float           : left;
+    width           : 100%;
+    height          : 20px;
+    margin-bottom   : 10px;
+    margin-top      : 10px;
+}
+
+.buddystream_facebook_album_hoverbox{
+    position                : absolute;
+    display                 : none;
+    background-color        : #d4d4d4;
+    width                   : 300px;
+    min-height                  : 130px;
+    font-size               : 12px;
+    color                   : #515151;
+    padding                 : 15px;
+    overflow                : hidden;
+    text-shadow             : 0px 0px 0px;
+    -webkit-border-radius   : 5px;
+    -moz-border-radius      : 5px;
+    border-radius           : 5px;
+    box-shadow              : 1px 1px 2px #515151;
+    -moz-box-shadow         : 1px 1px 2px #515151;
+    z-index                 :9999;
+    
+    ackground-image: -webkit-gradient(
+    linear,
+    left bottom,
+    left top,
+    color-stop(0.32, rgb(235,235,235)),
+    color-stop(0.66, rgb(255,255,255))
+    );
+    background-image: -moz-linear-gradient(
+        center bottom,
+        rgb(235,235,235) 32%,
+        rgb(255,255,255) 66%
+    );
+}

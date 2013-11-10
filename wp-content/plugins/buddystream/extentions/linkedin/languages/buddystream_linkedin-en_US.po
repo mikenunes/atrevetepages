@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyStream LinkedIn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-09 13:20+0100\n"
+"PO-Revision-Date: 2011-06-09 13:33+0100\n"
+"Last-Translator: Peter Hofman <blackphantom25@gmail.com>\n"
+"Language-Team: BuddyStream <support@buddystream.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: english\n"
+"X-Poedit-SearchPath-0: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin\n"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/core.php:12
+msgid "to linkedin"
+msgstr "to LinkedIn"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/core.php:15
+msgid "You\\'ve reached the max. amount of characters for a update.  The Message will appear truncated on LinkedIn."
+msgstr "You\\'ve reached the max. amount of characters for a update.  The Message will appear truncated on LinkedIn."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/core.php:94
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/import.php:13
+msgid "LinkedIn API server offline at the moment."
+msgstr "LinkedIn API server offline at the moment."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminSettings.php:32
+msgid "Settings saved."
+msgstr "Settings saved."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminSettings.php:37
+msgid "linkedin settings description"
+msgstr "For BuddyStream to work you will need to get an API key from LinkedIn.<br><br>To get a API key, follow these steps:<br>1. Go to <b>https://www.linkedin.com/secure/developer?newapp</b> and login with your LinkedIn account.<br>2. Create a new and set the  'OAuth Redirect URL' to: <b>#ROOTDOMAIN</b><br>3. Fill in the API Key and Secret Key below.<br>"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminSettings.php:44
+msgid "Linkedin API"
+msgstr "Linkedin API"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminSettings.php:48
+msgid "API key:"
+msgstr "API key:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminSettings.php:53
+msgid "Api secret:"
+msgstr "Api secret:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminSettings.php:60
+msgid "User options"
+msgstr "User options"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminSettings.php:64
+msgid "Hide linkedIn on the sidewide activity stream?"
+msgstr "Hide linkedIn on the sidewide activity stream?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminSettings.php:69
+msgid "Allow users to sync LinkedIn to your website?"
+msgstr "Allow users to sync LinkedIn to your website?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminSettings.php:74
+msgid "Maximum LinkedIn updates to be imported per user, per day (empty = unlimited tweets import):"
+msgstr "Maximum LinkedIn updates to be imported per user, per day (empty = unlimited tweets import):"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminSettings.php:79
+msgid "Extra options"
+msgstr "Extra options"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminSettings.php:83
+msgid "Show LinkedIn share button?"
+msgstr "Show LinkedIn share button?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminSettings.php:88
+msgid "Show counter?"
+msgstr "Show counter?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminSettings.php:96
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminFilters.php:34
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminStatitics.php:4
+msgid "linkedin statitics description"
+msgstr "Below you see a table with some nice to know statistics, i may help you to monitor you members social interaction."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminStatitics.php:8
+msgid "Statistics"
+msgstr "Statistics"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminStatitics.php:26
+msgid "Amount of users:"
+msgstr "Amount of users:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminStatitics.php:30
+msgid "Amount of user LinkedIn intergration:"
+msgstr "Amount of user LinkedIn intergration:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminStatitics.php:34
+msgid "Percentage of users LinkedIn using intergration:"
+msgstr "Percentage of users LinkedIn using intergration:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminStatitics.php:38
+msgid "Amount of activity updates:"
+msgstr "Amount of activity updates:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminStatitics.php:42
+msgid "Amount of items updates:"
+msgstr "Amount of items updates:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminStatitics.php:46
+msgid "Percentage of items in activity updates:"
+msgstr "Percentage of items in activity updates:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminStatitics.php:50
+msgid "Average items import per day:"
+msgstr "Average items import per day:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminStatitics.php:54
+msgid "Average items import per week:"
+msgstr "Average items import per week:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminStatitics.php:58
+msgid "Average items import per month:"
+msgstr "Average items import per month:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminStatitics.php:62
+msgid "Average items import per year:"
+msgstr "Average items import per year:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:42
+msgid "Settings saved"
+msgstr "Settings saved"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:56
+msgid "LinkedIn Settings"
+msgstr "LinkedIn Settings"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:61
+msgid "Synchronize LinkedIn updates to my activity stream?"
+msgstr "Synchronize LinkedIn updates to my activity stream?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:63
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:83
+msgid "Yes"
+msgstr "Yes"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:66
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:84
+msgid "No"
+msgstr "No"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:72
+msgid "Filters"
+msgstr "Filters"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:73
+msgid "user settings"
+msgstr "user settings"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:75
+msgid "Good Filter (separate words with commas)"
+msgstr "Good Filter (separate words with commas)"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:78
+msgid "Bad Filter (separate words with commas)"
+msgstr "Bad Filter (separate words with commas)"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:82
+msgid "Send achievements unlock to my LinkedIn"
+msgstr "Send achievements unlock to my LinkedIn"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:89
+msgid "Save settings"
+msgstr "Save settings"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:95
+msgid ""
+"LinkedIn setup</h3>\n"
+"                 You may setup you linkedIn intergration over here.<br/>\n"
+"                 Before you can begin using LinkedIn with this site you must authorize on LinkedIn by clicking the link below."
+msgstr ""
+"LinkedIn setup</h3>\n"
+"                 You may setup you linkedIn intergration over here.<br/>\n"
+"                 Before you can begin using LinkedIn with this site you must authorize on LinkedIn by clicking the link below."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:108
+msgid "Click here to start authorization"
+msgstr "Click here to start authorization"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:110
+msgid "There is a problem with the authentication service at this moment please come back in a while."
+msgstr "There is a problem with the authentication service at this moment please come back in a while."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/UserSettings.php:113
+msgid "LinkedIn is offline currently please come back in a while."
+msgstr "LinkedIn is offline currently please come back in a while."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminFilters.php:9
+msgid "Filters saved."
+msgstr "Filters saved."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminFilters.php:14
+msgid "linkedin filters description"
+msgstr "Using LinkedIn Filters will prevent overcrowded and \"messy\" activity streams. <br/>Example: You may have a network that focuses on soccer. To keep things \"clean\" you will only want items that pertain to soccer to be imported. By adding the word \"soccer\" to the Filter below, only items with the word \"soccer\" will be imported and shown in the users items on your site.<br/><br/>By using commas as a delimiter, you may set-up multiple filters (No Filter = All items).In addition, the \"Explicit Words\" filter, will block any item that contains them regardless of the other filter.<br/><b>Note:</b> Keywords listed in the \"Good\" Filter must be present in the update itself to be included in the site import. Likewise, keywords listed in the \"Explicit Filter\" will cause that particular update NOT to be imported.<br/>"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminFilters.php:21
+msgid "LinkedIn filters (optional)"
+msgstr "LinkedIn filters (optional)"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminFilters.php:25
+msgid "Filters (comma seperated)"
+msgstr "Filters (comma seperated)"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminFilters.php:30
+msgid "Explicit words (comma seperated)"
+msgstr "Explicit words (comma seperated)"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminUsers.php:26
+msgid "\"User integration has been reset. Note: User will have to reconnect their integration if desired.\""
+msgstr "\"User integration has been reset. Note: User will have to reconnect their integration if desired.\""
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminUsers.php:31
+msgid "Are you sure ?"
+msgstr "Are you sure ?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminUsers.php:39
+msgid "linkedin users description"
+msgstr "Below is a list of all users whom are using LinkedIn. You may reset there LinkedIn settings here. <b>Note:</b> When you reset a user they need to re-authenticate with LinkedIn. Items already imported <b>WILL NOT</b> be deleted!"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminUsers.php:44
+msgid "Username"
+msgstr "Username"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminUsers.php:45
+msgid "Email"
+msgstr "Email"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminUsers.php:46
+msgid "Items imported"
+msgstr "Items imported"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/linkedin/templates/AdminUsers.php:47
+msgid "Reset user"
+msgstr "Reset user"
+

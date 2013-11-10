@@ -1,0 +1,43 @@
+/**
+ * Admin Testimonial Bascis Plugin styles
+ *
+ * @package		Testimonial Basics Plugin
+ * @copyright	Copyright (c) 2012, Kevin Archibald
+ * @license		http://www.gnu.org/licenses/quick-guide-gplv3.html  GNU Public License
+ * @author		Kevin Archibald <www.kevinsspace.ca/contact/>
+ */
+#katb_picker {
+	position: relative;
+	top: 900px;
+	left: 650px;
+	width: 200px;
+}
+
+.katb_options {margin-top:-200px;}
+
+.wrap p {font-size: 1.0em;}
+
+.wrap h3 {font-size: 1.4em;}
+
+.katb_admin_form input,.katb_admin_form textarea {margin: 0 5px 0 5px;}
+
+.katb_admin_date {}
+
+.katb_admin_id,.katb_admin_date,.katb_admin_author,.katb_admin_url,.katb_admin_test {
+	float: left;
+	width: 130px;
+	text-align: right;
+}
+
+.katb_paypal {
+	float: right;
+	font-style: italic;
+	font-weight : bold;
+}
+
+.html_allowed {
+	float:left;
+	clear: both;
+	width: 400px;
+	margin-left: 140px;
+}

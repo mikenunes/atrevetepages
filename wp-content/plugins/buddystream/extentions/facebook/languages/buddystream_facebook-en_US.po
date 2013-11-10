@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyStream Facebook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-04 14:28+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Peter Hofman <blackphantom25@gmail.com>\n"
+"Language-Team: BuddyStream\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook\n"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/core.php:12
+msgid "to facebook"
+msgstr "to Facebook"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/core.php:79
+msgid "Facebook album"
+msgstr "Facebook album"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/core.php:99
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/core.php:119
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminUsers.php:42
+msgid "Facebook"
+msgstr "Facebook"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/import.php:12
+msgid "Facebook API server offline at the moment."
+msgstr "Facebook API server offline at the moment."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserAlbum.php:1
+msgid "Facebook Album"
+msgstr "Facebook Album"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserAlbum.php:21
+msgid "User has no photo's (yet)"
+msgstr "User has no photo's (yet)"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:41
+msgid "Settings saved."
+msgstr "Settings saved."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:46
+msgid "facebook settings description"
+msgstr "For the Facebook intergration to work with BuddyStream you will need to get an Application ID and Key from Facebook.<br> You may get one by adding the Facebook Developer application here:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:54
+msgid "Facebook API"
+msgstr "Facebook API"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:58
+msgid "Application ID:"
+msgstr "Application ID:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:65
+msgid "Application secret:"
+msgstr "Application secret:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:74
+msgid "User options"
+msgstr "User options"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:78
+msgid "Hide Facebook items on the sidewide activity stream?"
+msgstr "Hide Facebook items on the sidewide activity stream?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:85
+msgid "Show  Facebook album on user profile page?"
+msgstr "Show  Facebook album on user profile page?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:90
+msgid "Allow users to sync to BuddyPress?"
+msgstr "Allow users to sync to BuddyPress?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:95
+msgid "Allow users to sync updates to BuddyPress?"
+msgstr "Allow users to sync updates to BuddyPress?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:100
+msgid "Allow users to sync links to BuddyPress?"
+msgstr "Allow users to sync links to BuddyPress?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:105
+msgid "Allow users to sync photos to BuddyPress?"
+msgstr "Allow users to sync photos to BuddyPress?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:110
+msgid "Allow users to sync videos to BuddyPress?"
+msgstr "Allow users to sync videos to BuddyPress?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:115
+msgid "Maximum amount of Facebook items (total) to be imported per user, per day (empty = unlimited):"
+msgstr "Maximum amount of Facebook items (total) to be imported per user, per day (empty = unlimited):"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:122
+msgid "Extra options"
+msgstr "Extra options"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:126
+msgid "Enable like buttons on the activity stream?"
+msgstr "Enable like buttons on the activity stream?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:134
+msgid "Show faces?"
+msgstr "Show faces?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:141
+msgid "Type:"
+msgstr "Type:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:144
+msgid "standard"
+msgstr "standard"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:145
+msgid "button count"
+msgstr "button count"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:146
+msgid "box count"
+msgstr "box count"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:152
+msgid "Color scheme:"
+msgstr "Color scheme:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:155
+msgid "light"
+msgstr "light"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:156
+msgid "dark"
+msgstr "dark"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminSettings.php:165
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminFilters.php:38
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminStatitics.php:5
+msgid "facebook statitics descriptiption"
+msgstr "Below you see a table with some nice to know statistics, i may help you to monitor you members social interaction."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminStatitics.php:11
+msgid "Statistics"
+msgstr "Statistics"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminStatitics.php:29
+msgid "Amount of users:"
+msgstr "Amount of users:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminStatitics.php:33
+msgid "Amount of user using Facebook integration:"
+msgstr "Amount of user using Facebook integration:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminStatitics.php:37
+msgid "Percentage of users using Facebook integration:"
+msgstr "Percentage of users using Facebook integration:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminStatitics.php:41
+msgid "Amount of activity updates:"
+msgstr "Amount of activity updates:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminStatitics.php:45
+msgid "Amount of Facebook items:"
+msgstr "Amount of Facebook items:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminStatitics.php:49
+msgid "Percentage of Facebook items:"
+msgstr "Percentage of Facebook items:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminStatitics.php:53
+msgid "Average number of Facebook items imported per day:"
+msgstr "Average number of Facebook items imported per day:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminStatitics.php:57
+msgid "Average number of Facebook items imported per week:"
+msgstr "Average number of Facebook items imported per week:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminStatitics.php:61
+msgid "Average number Facebook items imported per month:"
+msgstr "Average number Facebook items imported per month:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminStatitics.php:65
+msgid "Average number Facebook items imported per year"
+msgstr "Average number Facebook items imported per year"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:42
+msgid "Settings saved"
+msgstr "Settings saved"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:57
+msgid "Facebook Settings"
+msgstr "Facebook Settings"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:60
+msgid "Synchronize Facebook to my activity stream:"
+msgstr "Synchronize Facebook to my activity stream:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:62
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:82
+msgid "Yes"
+msgstr "Yes"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:65
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:83
+msgid "No"
+msgstr "No"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:70
+msgid "Filters"
+msgstr "Filters"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:71
+msgid "facebook user filters description"
+msgstr "By using filters, you may decide which items will be imported or excluded.<br><b>Note:</b> Each site also has a \"Global\" list of filters and its settings will override these settings. <br><b>Note:</b> Keywords listed in the \"Good\" Filter must be present in the update itself to be included in the site import. Likewise, keywords listed in the \"Explicit Filter\" will cause that particular update NOT to be imported."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:74
+msgid "Good Filter (separate words with commas)"
+msgstr "Good Filter (separate words with commas)"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:77
+msgid "Bad Filter (separate words with commas)"
+msgstr "Bad Filter (separate words with commas)"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:81
+msgid "Send achievements unlock to my facebook"
+msgstr "Send achievements unlock to my facebook"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:87
+msgid "Save settings"
+msgstr "Save settings"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:90
+msgid "Remove my facebook settings"
+msgstr "Remove my facebook settings"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:96
+msgid "Permission"
+msgstr "Permission"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:97
+msgid "facebook user persmission description"
+msgstr "You can setup facebook over here.You may setup your BuddyStream Facebook integration here.Before you can begin using Facebook with this site, you must first authorize Facebook by using Facebook Authentication Service.  Click the link below to begin this process:"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:103
+msgid "Authorize with facebook"
+msgstr "Authorize with facebook"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/UserSettings.php:105
+msgid "Facebook is currently offline please come back in a while."
+msgstr "Facebook is currently offline please come back in a while."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminFilters.php:9
+msgid "Filters saved."
+msgstr "Filters saved."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminFilters.php:14
+msgid "facebook filters description"
+msgstr "Using Facebook filters will prevent overcrowded and \"messy\" activity streams.<br>Example: You may have a network what focuses on soccer. <br>To keep things \"clean\" you will only want items that pertain to soccer to be imported.<br>By adding the word \"soccer\" to the filter below, only items with the word \"soccer\" will be imported and shown in the users activity stream.<br><br>By using commas as a delimiter  you may set-up multiple filters (No filter = all Facebook items.)<br>In addition, the \"Explicit words\" filter, will block any item that contains them regardless of the other filter.<br><b>Note:</b> Keywords listed in the \"Good\" Filter must be present in the update itself to be included in the site import. Likewise, keywords listed in the \"Explicit Filter\" will cause that particular update NOT to be imported."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminFilters.php:21
+msgid "Facebook filters (optional)"
+msgstr "Facebook filters (optional)"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminFilters.php:25
+msgid "Filters (comma seperated)"
+msgstr "Filters (comma seperated)"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminFilters.php:32
+msgid "Explicit words filters (comma seperated)"
+msgstr "Explicit words filters (comma seperated)"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminUsers.php:20
+msgid "\"User integration has been reset. Note: User will have to reconnect their integration if desired.\""
+msgstr "\"User integration has been reset. Note: User will have to reconnect their integration if desired.\""
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminUsers.php:25
+msgid "Are you sure ?"
+msgstr "Are you sure ?"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminUsers.php:34
+msgid "facebook users description"
+msgstr "Below is a list of users whom are using Facebook. You may reset their Facebook settings here.<br><b>Note:</b> When you reset a user, they will need to re-authenticate with Facebook. Any Facebook items that have already been imported <b>WILL NOT</b> be deleted."
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminUsers.php:43
+msgid "Items imported"
+msgstr "Items imported"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminUsers.php:44
+msgid "Reset user"
+msgstr "Reset user"
+
+#: /home/peter/NetBeansProjects/buddystream/wp-content/plugins/buddystream/extentions/facebook/templates/AdminUsers.php:63
+msgid "Import turned off by user"
+msgstr "Import turned off by user"
+
+#~ msgid "Synchronize updates to my activity"
+#~ msgstr "Synchronize updates to my activity"
+
+#~ msgid "Synchronize links to my activity"
+#~ msgstr "Synchronize links to my activity"
+
+#~ msgid "Synchronize photos to my activity"
+#~ msgstr "Synchronize photos to my activity"
+
+#~ msgid "Synchronize videos to my activity"
+#~ msgstr "Synchronize videos to my activity"
